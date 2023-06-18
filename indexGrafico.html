@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Gráfico Acumulado de Empreendimentos</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+        }
+
+        #controls {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+        }
+
+        select {
+            padding: 5px;
+        }
+
+        #grafico, #graficoLinha {
+            width: 80%;
+            height: 400px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="controls">
+        <select id="classeConsumoFilter">
+            <option value="all">Todas as Classes</option>
+            <!-- As opções serão preenchidas dinamicamente -->
+        </select>
+
+        <select id="estadoFilter">
+            <option value="all">Todos os Estados</option>
+            <!-- As opções serão preenchidas dinamicamente -->
+        </select>
+    </div>
+
+    <div id="grafico"></div>
+    <div id="graficoLinha"></div>
+
+    <script>
+        // Carregando os dados do arquivo tabela1.json
+        fetch('tabela1.json')
+            .then(response => response.json())
+            .then(data => {
+
+                // Processando os dados
+                let periodos = new Set();
+                let classesConsumo = new Set();
+                let estados = new Set();
+                let counter = {};
+
+                data.forEach(entry => {
+                    periodos.add(entry.periodo);
+                    classesConsumo.add(entry.DscClasseConsumo);
+                    estados.add(entry.SigUF);
+
+                    let key = `${entry.SigUF}-${entry.DscClasseConsumo}-${entry.periodo}`;
+                    counter[key] = (counter[key] || 0) + entry.TotalEmpreendimentos;
+                });
+
+                periodos = Array.from(periodos).sort();
+                classesConsumo = Array.from(classesConsumo);
+                estados = Array.from(estados);
+
+                // Preencher as opções de filtro de classe de consumo
+                const selectClasse = document.getElementById('classeConsumoFilter');
+                classesConsumo.forEach(classe => {
+                    const option = document.createElement('option');
+                    option.value = classe;
+                    option.textContent = classe;
+                    selectClasse.appendChild(option);
+                });
+
+                // Preencher as opções de filtro de estado
+                const selectEstado = document.getElementById('estadoFilter');
+                estados.forEach(estado => {
+                    const option = document.createElement('option');
+                    option.value = estado;
+                    option.textContent = estado;
+                    selectEstado.appendChild(option);
+                });
+
+                // Função para atualizar o gráfico baseado na seleção
+                const updateGrafico = () => {
+                    const selectedClasseConsumo = selectClasse.value;
+                    const selectedEstado = selectEstado.value;
+
+                    // Preparando os dados para o gráfico de barras
+                    let tracesBar = [];
+
+                    // Preparando os dados para o gráfico de linha (acumulado)
+                    let tracesLine = [{
+                        x: periodos,
+                        y: [],
+                        name: 'Soma Acumulada',
+                        type: 'scatter'
+                    }];
+
+                    let somaAcumulada = 0;
+
+                    classesConsumo.forEach(classe => {
+                        if (selectedClasseConsumo === 'all' || selectedClasseConsumo === classe) {
+                            let trace = {
+                                x: periodos,
+                                y: [],
+                                name: classe,
+                                type: 'bar'
+                            };
+
+                            periodos.forEach(periodo => {
+                                let sum = 0;
+                                estados.forEach(estado => {
+                                    if (selectedEstado === 'all' || selectedEstado === estado) {
+                                        let key = `${estado}-${classe}-${periodo}`;
+                                        sum += counter[key] || 0;
+                                    }
+                                });
+                                trace.y.push(sum);
+                                somaAcumulada += sum;
+                                tracesLine[0].y.push(somaAcumulada);
+                            });
+
+                            tracesBar.push(trace);
+                        }
+                    });
+
+                    // Layout do gráfico de barras
+                    let layoutBar = {
+                        barmode: 'stack',
+                        title: 'Evolução temporal do Total Mensal de Empreendimentos por Estado e por Classe de Consumo',
+                        xaxis: { title: 'Período' },
+                        yaxis: { title: 'Total de Empreendimentos' }
+                    };
+
+                    // Layout do gráfico de linha (acumulado)
+                    let layoutLine = {
+                        title: 'Soma acumulada mês a mês do total de empreendimentos',
+                        xaxis: { title: 'Período' },
+                        yaxis: { title: 'Total de Empreendimentos (Acumulado)' }
+                    };
+
+                    // Renderizando o gráfico de barras
+                    Plotly.newPlot('grafico', tracesBar, layoutBar);
+
+                    // Renderizando o gráfico de linha (acumulado)
+                    Plotly.newPlot('graficoLinha', tracesLine, layoutLine);
+                };
+
+                // Adicionar event listener para atualizar o gráfico quando o filtro mudar
+                selectClasse.addEventListener('change', updateGrafico);
+                selectEstado.addEventListener('change', updateGrafico);
+
+                // Atualizar o gráfico inicial
+                updateGrafico();
+
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,2258 @@
+DscClasseConsumo,SigUF,SigTipoGeracao,periodo,TotalEmpreendimentos
+Residencial,RO,UFV,2009-02,1
+Residencial,RO,UFV,2009-06,1
+Residencial,MS,UFV,2009-06,1
+Comercial,MS,UFV,2009-09,1
+Residencial,MS,UFV,2010-04,1
+Residencial,MS,UFV,2010-07,1
+Comercial,MS,UFV,2010-09,1
+Residencial,MS,UFV,2010-10,1
+Residencial,MS,UFV,2010-11,2
+Comercial,MS,UFV,2011-04,2
+Residencial,MS,UFV,2011-05,1
+Industrial,MS,UFV,2011-07,1
+Rural,MS,UFV,2011-08,1
+Residencial,MS,UFV,2012-02,1
+Residencial,MS,UFV,2012-06,1
+Residencial,MS,UFV,2012-11,1
+Residencial,MS,UFV,2013-01,1
+Residencial,MS,UFV,2013-02,1
+Rural,RO,UFV,2013-04,1
+Comercial,RO,UFV,2013-04,1
+Residencial,RO,UFV,2013-04,1
+Residencial,PE,UFV,2013-08,1
+Residencial,MS,UFV,2013-08,1
+Industrial,RO,UFV,2013-12,1
+Comercial,PE,UFV,2013-12,1
+Residencial,MS,UFV,2014-03,2
+Comercial,MS,UFV,2014-03,1
+Residencial,GO,UFV,2014-05,1
+Poder Público,PE,UFV,2014-07,1
+Residencial,PE,UFV,2014-08,1
+Industrial,PE,UFV,2014-09,1
+Residencial,MS,UFV,2014-09,1
+Rural,GO,UFV,2014-09,1
+Comercial,PE,UFV,2014-09,1
+Poder Público,PE,UFV,2014-10,1
+Comercial,RO,UFV,2014-11,1
+Residencial,MS,UFV,2014-11,1
+Residencial,PE,UFV,2014-12,2
+Comercial,PE,UFV,2015-01,1
+Residencial,PE,UFV,2015-03,1
+Comercial,PE,UFV,2015-03,1
+Residencial,RO,UFV,2015-03,1
+Poder Público,PE,UFV,2015-03,1
+Comercial,GO,UFV,2015-03,1
+Residencial,PE,UFV,2015-04,5
+Comercial,PE,UFV,2015-04,2
+Residencial,PE,UFV,2015-05,1
+Residencial,GO,UFV,2015-05,1
+Residencial,PE,UFV,2015-06,2
+Residencial,GO,UFV,2015-07,1
+Poder Público,PE,UFV,2015-07,1
+Residencial,PE,EOL,2015-07,1
+Residencial,PE,UFV,2015-07,4
+Residencial,MS,UFV,2015-07,1
+Residencial,PE,UFV,2015-08,1
+Comercial,GO,UFV,2015-08,1
+Poder Público,PE,UFV,2015-08,1
+Residencial,PE,UFV,2015-09,1
+Comercial,PE,UFV,2015-09,3
+Residencial,GO,UFV,2015-10,1
+Residencial,PE,UFV,2015-10,2
+Comercial,PE,UFV,2015-10,1
+Poder Público,PE,UFV,2015-10,1
+Rural,GO,UTE,2015-11,1
+Residencial,GO,UFV,2015-11,4
+Residencial,RO,UFV,2015-11,1
+Residencial,PE,UFV,2015-11,6
+Residencial,GO,UFV,2015-12,8
+Rural,GO,UTE,2015-12,1
+Residencial,MS,UFV,2015-12,1
+Comercial,GO,UFV,2015-12,1
+Residencial,PE,UFV,2015-12,2
+Residencial,MG,UFV,2015-12,1
+Comercial,PE,UFV,2015-12,4
+Comercial,PE,UFV,2016-01,5
+Residencial,GO,UFV,2016-01,3
+Residencial,PE,UFV,2016-01,1
+Rural,PE,UFV,2016-01,2
+Residencial,GO,UFV,2016-02,5
+Residencial,PE,UFV,2016-02,8
+Comercial,PE,UFV,2016-02,1
+Comercial,PE,UFV,2016-03,4
+Residencial,PE,UFV,2016-03,6
+Residencial,GO,UFV,2016-03,2
+Residencial,MS,UFV,2016-03,1
+Poder Público,PE,UFV,2016-03,1
+Comercial,GO,UFV,2016-03,2
+Residencial,RO,UFV,2016-04,1
+Rural,GO,UFV,2016-04,1
+Residencial,GO,UFV,2016-04,5
+Comercial,GO,UFV,2016-04,1
+Comercial,RO,UFV,2016-04,1
+Residencial,PE,UFV,2016-04,8
+Comercial,RO,UFV,2016-05,1
+Comercial,PE,UFV,2016-05,3
+Residencial,RO,UFV,2016-05,1
+Residencial,MS,UFV,2016-05,1
+Residencial,PE,UFV,2016-05,3
+Residencial,GO,UFV,2016-05,3
+Residencial,RO,UFV,2016-06,2
+Industrial,PE,UFV,2016-06,2
+Residencial,PE,UFV,2016-06,5
+Residencial,RR,UFV,2016-06,1
+Comercial,PE,UFV,2016-06,3
+Comercial,PE,UTE,2016-06,1
+Comercial,GO,UFV,2016-06,2
+Residencial,GO,UFV,2016-06,397
+Residencial,MS,UFV,2016-06,1
+Poder Público,GO,UFV,2016-06,1
+Poder Público,PE,UFV,2016-06,1
+Comercial,RO,UFV,2016-06,1
+Residencial,RO,UFV,2016-07,1
+Comercial,PE,UFV,2016-07,5
+Comercial,GO,UFV,2016-07,1
+Residencial,PE,UFV,2016-07,6
+Residencial,GO,UFV,2016-07,68
+Residencial,PE,UFV,2016-08,7
+Residencial,GO,UFV,2016-08,8
+Poder Público,PE,UFV,2016-08,1
+Comercial,PE,UFV,2016-08,4
+Comercial,PE,UFV,2016-09,4
+Residencial,MS,UFV,2016-09,2
+Comercial,GO,UFV,2016-09,3
+Residencial,GO,UFV,2016-09,27
+Residencial,PE,UFV,2016-09,7
+Rural,MS,UFV,2016-09,1
+Comercial,PR,UFV,2016-10,1
+Residencial,PE,UFV,2016-10,7
+Residencial,RO,UFV,2016-10,1
+Comercial,SP,UFV,2016-10,1
+Comercial,PE,UFV,2016-10,1
+Residencial,GO,UFV,2016-10,12
+Residencial,PE,UFV,2016-11,2
+Comercial,GO,UFV,2016-11,1
+Residencial,GO,UFV,2016-11,6
+Residencial,RO,UFV,2016-11,2
+Comercial,RO,UFV,2016-11,2
+Residencial,MS,UFV,2016-11,1
+Comercial,PE,UFV,2016-11,1
+Industrial,GO,UFV,2016-11,1
+Residencial,GO,UFV,2016-12,5
+Residencial,SP,UFV,2016-12,1
+Residencial,PR,UFV,2016-12,2
+Residencial,PE,UFV,2016-12,7
+Comercial,GO,UFV,2016-12,1
+Comercial,RO,UFV,2016-12,2
+Rural,GO,UFV,2016-12,1
+Comercial,PR,UFV,2016-12,1
+Residencial,BA,UFV,2016-12,1
+Rural,GO,UFV,2017-01,1
+Rural,GO,UTE,2017-01,1
+Residencial,PE,UFV,2017-01,4
+Comercial,GO,UFV,2017-01,4
+Comercial,PE,UFV,2017-01,3
+Comercial,RO,UFV,2017-01,1
+Residencial,GO,UFV,2017-01,8
+Residencial,RO,UFV,2017-01,4
+Serviço Público,GO,UFV,2017-01,1
+Rural,GO,UFV,2017-02,1
+Residencial,RO,UFV,2017-02,1
+Residencial,GO,UFV,2017-02,10
+Comercial,PE,UFV,2017-02,1
+Residencial,PE,UFV,2017-02,2
+Comercial,GO,UFV,2017-02,3
+Comercial,GO,UFV,2017-03,3
+Residencial,PE,UFV,2017-03,10
+Residencial,RO,UFV,2017-03,3
+Comercial,RO,UFV,2017-03,1
+Rural,GO,UFV,2017-03,2
+Residencial,GO,UFV,2017-03,16
+Comercial,PE,UFV,2017-03,3
+Residencial,RR,UFV,2017-03,1
+Industrial,PE,UFV,2017-03,1
+Residencial,PE,UFV,2017-04,8
+Rural,GO,UTE,2017-04,1
+Residencial,GO,UFV,2017-04,7
+Comercial,GO,UFV,2017-04,6
+Comercial,MS,UFV,2017-04,1
+Comercial,RO,UFV,2017-04,1
+Rural,PR,UFV,2017-04,1
+Residencial,RO,UFV,2017-04,1
+Residencial,PE,UFV,2017-05,9
+Residencial,PR,UFV,2017-05,1
+Comercial,PE,UFV,2017-05,4
+Residencial,RO,UFV,2017-05,1
+Comercial,GO,UFV,2017-05,8
+Rural,GO,UFV,2017-05,1
+Residencial,GO,UFV,2017-05,11
+Rural,MS,UFV,2017-06,1
+Poder Público,PE,UFV,2017-06,4
+Comercial,PE,UFV,2017-06,5
+Residencial,RO,UFV,2017-06,1
+Rural,PR,UFV,2017-06,1
+Residencial,MS,UFV,2017-06,1
+Rural,RS,UFV,2017-06,1
+Comercial,GO,UFV,2017-06,9
+Residencial,PE,UFV,2017-06,12
+Comercial,RO,UFV,2017-06,1
+Rural,GO,UFV,2017-06,2
+Industrial,PE,UFV,2017-06,1
+Residencial,GO,UFV,2017-06,147
+Comercial,MS,UFV,2017-06,1
+Residencial,PR,UFV,2017-06,1
+Residencial,GO,UFV,2017-07,54
+Comercial,GO,UFV,2017-07,8
+Residencial,PE,UFV,2017-07,15
+Industrial,PE,UFV,2017-07,1
+Comercial,PE,UFV,2017-07,5
+Residencial,MS,UFV,2017-07,1
+Residencial,RO,UFV,2017-07,3
+Rural,PR,UFV,2017-07,1
+Rural,PR,UFV,2017-08,2
+Residencial,GO,UFV,2017-08,20
+Poder Público,GO,UFV,2017-08,3
+Industrial,PE,UFV,2017-08,2
+Comercial,PE,UFV,2017-08,4
+Residencial,PR,UFV,2017-08,1
+Rural,GO,UFV,2017-08,3
+Residencial,PE,UFV,2017-08,10
+Comercial,GO,UFV,2017-08,7
+Residencial,RO,UFV,2017-08,4
+Industrial,MS,UFV,2017-08,1
+Poder Público,PE,UFV,2017-09,3
+Comercial,GO,UFV,2017-09,7
+Comercial,PR,UFV,2017-09,1
+Poder Público,GO,UFV,2017-09,5
+Residencial,GO,UFV,2017-09,23
+Residencial,PE,UFV,2017-09,9
+Rural,GO,UFV,2017-09,6
+Residencial,SP,UFV,2017-09,2
+Residencial,RR,UFV,2017-09,1
+Comercial,PE,UFV,2017-09,5
+Residencial,RO,UFV,2017-09,2
+Residencial,PR,UFV,2017-10,2
+Residencial,RR,UFV,2017-10,1
+Poder Público,GO,UFV,2017-10,1
+Comercial,GO,UFV,2017-10,6
+Comercial,PE,UFV,2017-10,9
+Residencial,PE,UFV,2017-10,12
+Rural,GO,UFV,2017-10,3
+Residencial,GO,UFV,2017-10,27
+Residencial,SP,UFV,2017-10,1
+Rural,MS,UFV,2017-10,1
+Comercial,RO,UFV,2017-10,1
+Residencial,RO,UFV,2017-10,2
+Comercial,PR,UFV,2017-11,1
+Rural,GO,UFV,2017-11,3
+Comercial,PE,UFV,2017-11,5
+Poder Público,RR,UFV,2017-11,1
+Rural,PR,UFV,2017-11,1
+Industrial,PR,UFV,2017-11,1
+Residencial,PE,UFV,2017-11,14
+Residencial,SP,UFV,2017-11,1
+Industrial,PE,UFV,2017-11,2
+Residencial,PR,UFV,2017-11,4
+Residencial,GO,UFV,2017-11,20
+Industrial,GO,UFV,2017-11,1
+Poder Público,GO,UFV,2017-11,5
+Comercial,GO,UFV,2017-11,7
+Rural,PE,UFV,2017-11,1
+Residencial,RO,UFV,2017-12,2
+Comercial,PE,UFV,2017-12,5
+Poder Público,RR,UFV,2017-12,2
+Comercial,GO,UFV,2017-12,8
+Residencial,GO,UFV,2017-12,32
+Poder Público,GO,UFV,2017-12,2
+Rural,PR,UFV,2017-12,2
+Residencial,PR,UFV,2017-12,2
+Residencial,PE,UFV,2017-12,16
+Rural,PE,UFV,2017-12,1
+Residencial,RR,UFV,2017-12,1
+Rural,GO,UFV,2017-12,8
+Comercial,RO,UFV,2017-12,3
+Rural,GO,UTE,2018-01,1
+Rural,GO,UFV,2018-01,7
+Comercial,PR,UFV,2018-01,1
+Residencial,GO,UFV,2018-01,21
+Comercial,GO,UFV,2018-01,11
+Poder Público,GO,UFV,2018-01,3
+Rural,MS,UFV,2018-01,1
+Residencial,PE,UFV,2018-01,29
+Industrial,PR,UFV,2018-01,2
+Comercial,RO,UFV,2018-01,2
+Residencial,RO,UFV,2018-01,2
+Comercial,PE,UFV,2018-01,12
+Rural,PR,UFV,2018-01,1
+Residencial,PR,UFV,2018-01,5
+Industrial,GO,UFV,2018-01,1
+Industrial,PR,UFV,2018-02,1
+Residencial,BA,UFV,2018-02,1
+Residencial,RO,UFV,2018-02,3
+Comercial,PR,UFV,2018-02,1
+Residencial,PR,UFV,2018-02,1
+Residencial,PB,UFV,2018-02,1
+Rural,GO,UFV,2018-02,1
+Industrial,PB,UFV,2018-02,2
+Residencial,GO,UFV,2018-02,35
+Poder Público,GO,UFV,2018-02,1
+Residencial,SP,UFV,2018-02,1
+Residencial,PE,UFV,2018-02,10
+Residencial,RR,UFV,2018-02,1
+Rural,PB,UFV,2018-02,1
+Comercial,PE,UFV,2018-02,12
+Comercial,GO,CGH,2018-02,1
+Comercial,GO,UFV,2018-02,13
+Residencial,GO,UFV,2018-03,45
+Industrial,PE,UFV,2018-03,2
+Rural,PE,UFV,2018-03,1
+Residencial,MS,UFV,2018-03,1
+Comercial,GO,UFV,2018-03,10
+Residencial,RR,UFV,2018-03,1
+Residencial,PE,UFV,2018-03,14
+Rural,RO,UFV,2018-03,1
+Residencial,RO,UFV,2018-03,3
+Comercial,RO,UFV,2018-03,1
+Rural,GO,UFV,2018-03,4
+Comercial,PB,UFV,2018-03,2
+Comercial,PE,UFV,2018-03,9
+Poder Público,GO,UFV,2018-04,1
+Residencial,RO,UFV,2018-04,2
+Rural,GO,UTE,2018-04,1
+Rural,SP,UFV,2018-04,1
+Residencial,PE,UFV,2018-04,51
+Comercial,GO,CGH,2018-04,1
+Residencial,SP,UFV,2018-04,2
+Comercial,GO,UFV,2018-04,7
+Rural,GO,UFV,2018-04,3
+Comercial,PE,UFV,2018-04,7
+Rural,PE,UFV,2018-04,3
+Industrial,GO,UFV,2018-04,1
+Residencial,GO,UFV,2018-04,50
+Residencial,PR,UFV,2018-04,3
+Residencial,BA,UFV,2018-04,1
+Comercial,SP,UFV,2018-04,1
+Comercial,PR,UFV,2018-04,2
+Residencial,MS,UFV,2018-04,1
+Residencial,PB,UFV,2018-04,1
+Comercial,PE,UFV,2018-05,15
+Residencial,PR,UFV,2018-05,2
+Residencial,RO,UFV,2018-05,7
+Comercial,PB,UFV,2018-05,1
+Rural,GO,UFV,2018-05,3
+Residencial,PE,UFV,2018-05,41
+Residencial,GO,UFV,2018-05,64
+Comercial,GO,UFV,2018-05,10
+Poder Público,PB,UFV,2018-05,1
+Residencial,MS,UFV,2018-05,1
+Comercial,RO,UFV,2018-05,1
+Residencial,RR,UFV,2018-05,1
+Residencial,PB,UFV,2018-05,1
+Poder Público,PE,UFV,2018-05,1
+Rural,PE,UFV,2018-05,1
+Rural,GO,UTE,2018-05,1
+Comercial,PE,UFV,2018-06,16
+Industrial,PE,UFV,2018-06,2
+Residencial,PR,UFV,2018-06,2
+Industrial,GO,UFV,2018-06,1
+Residencial,RO,UFV,2018-06,1
+Rural,GO,UFV,2018-06,8
+Comercial,GO,UFV,2018-06,14
+Poder Público,GO,UFV,2018-06,1
+Residencial,PE,UFV,2018-06,26
+Rural,PE,UFV,2018-06,3
+Residencial,MS,UFV,2018-06,1
+Residencial,GO,UFV,2018-06,75
+Comercial,PR,UFV,2018-06,1
+Residencial,PR,UFV,2018-07,1
+Rural,RO,UFV,2018-07,1
+Industrial,PE,UFV,2018-07,1
+Comercial,GO,UFV,2018-07,19
+Residencial,RO,UFV,2018-07,1
+Residencial,PE,UFV,2018-07,24
+Residencial,PB,UFV,2018-07,1
+Rural,GO,UFV,2018-07,7
+Comercial,PE,UFV,2018-07,10
+Rural,RS,UFV,2018-07,1
+Industrial,PB,UFV,2018-07,1
+Comercial,RO,UFV,2018-07,3
+Poder Público,RR,UFV,2018-07,1
+Rural,PE,UFV,2018-07,2
+Residencial,GO,UFV,2018-07,69
+Comercial,PR,UFV,2018-07,1
+Poder Público,PB,UFV,2018-08,1
+Rural,PE,UFV,2018-08,2
+Comercial,RO,UFV,2018-08,1
+Industrial,PR,UFV,2018-08,1
+Comercial,GO,UFV,2018-08,15
+Rural,PR,UFV,2018-08,1
+Residencial,PE,UFV,2018-08,44
+Rural,GO,UTE,2018-08,1
+Poder Público,GO,UFV,2018-08,2
+Residencial,GO,UFV,2018-08,78
+Comercial,PE,UFV,2018-08,19
+Residencial,RO,UFV,2018-08,7
+Comercial,PR,UFV,2018-08,1
+Residencial,PR,UFV,2018-08,4
+Industrial,PE,UFV,2018-08,1
+Rural,GO,UFV,2018-08,5
+Poder Público,PE,UFV,2018-08,1
+Comercial,RO,UFV,2018-09,1
+Residencial,RO,UFV,2018-09,1
+Industrial,PE,UFV,2018-09,2
+Rural,PE,UFV,2018-09,3
+Comercial,GO,UFV,2018-09,13
+Industrial,PR,UFV,2018-09,1
+Comercial,PB,UFV,2018-09,1
+Industrial,GO,UFV,2018-09,2
+Comercial,PE,UFV,2018-09,20
+Residencial,MS,UFV,2018-09,1
+Rural,GO,UFV,2018-09,7
+Residencial,PR,UFV,2018-09,3
+Residencial,GO,UFV,2018-09,64
+Residencial,PE,UFV,2018-09,56
+Comercial,MS,UFV,2018-09,1
+Poder Público,GO,UFV,2018-09,1
+Comercial,PE,UFV,2018-10,17
+Comercial,GO,UFV,2018-10,26
+Rural,PR,UFV,2018-10,2
+Residencial,PR,UFV,2018-10,5
+Rural,GO,UFV,2018-10,11
+Residencial,GO,UFV,2018-10,107
+Comercial,PB,UFV,2018-10,1
+Industrial,PE,UFV,2018-10,3
+Rural,RS,UFV,2018-10,1
+Comercial,PR,UFV,2018-10,1
+Rural,PE,UFV,2018-10,2
+Comercial,RO,UFV,2018-10,3
+Residencial,PE,UFV,2018-10,46
+Residencial,RO,UFV,2018-10,1
+Industrial,PE,CGH,2018-10,1
+Industrial,GO,UFV,2018-10,1
+Residencial,PR,UFV,2018-11,2
+Residencial,MS,UFV,2018-11,2
+Comercial,GO,UFV,2018-11,27
+Residencial,PE,UFV,2018-11,36
+Industrial,GO,UFV,2018-11,2
+Rural,RS,UFV,2018-11,1
+Residencial,GO,UFV,2018-11,88
+Comercial,PE,UFV,2018-11,13
+Comercial,PR,UFV,2018-11,2
+Rural,PE,UFV,2018-11,1
+Residencial,RO,UFV,2018-11,8
+Rural,GO,UFV,2018-11,11
+Residencial,RR,UFV,2018-11,1
+Comercial,PR,UFV,2018-12,2
+Residencial,MS,UFV,2018-12,4
+Residencial,PR,UFV,2018-12,1
+Residencial,PB,UFV,2018-12,1
+Residencial,BA,UFV,2018-12,2
+Rural,PR,UFV,2018-12,1
+Rural,RO,UFV,2018-12,1
+Residencial,RO,UFV,2018-12,7
+Industrial,GO,UFV,2018-12,2
+Comercial,RO,UFV,2018-12,2
+Industrial,PR,UFV,2018-12,1
+Comercial,PE,UFV,2018-12,15
+Residencial,GO,UFV,2018-12,104
+Rural,GO,UFV,2018-12,7
+Comercial,GO,UFV,2018-12,32
+Comercial,MG,UFV,2018-12,1
+Residencial,RR,UFV,2018-12,2
+Residencial,SP,UFV,2018-12,1
+Residencial,PE,UFV,2018-12,36
+Rural,PR,UFV,2019-01,1
+Industrial,GO,UFV,2019-01,1
+Industrial,PR,UFV,2019-01,2
+Residencial,RO,UFV,2019-01,4
+Comercial,SP,UFV,2019-01,1
+Rural,RO,UFV,2019-01,1
+Residencial,PE,UFV,2019-01,76
+Rural,PE,UFV,2019-01,2
+Industrial,PE,UFV,2019-01,3
+Residencial,PR,UFV,2019-01,2
+Residencial,RR,UFV,2019-01,7
+Residencial,MS,UFV,2019-01,3
+Residencial,GO,UFV,2019-01,114
+Residencial,BA,UFV,2019-01,1
+Rural,RR,UFV,2019-01,1
+Comercial,PR,UFV,2019-01,3
+Comercial,GO,UFV,2019-01,19
+Comercial,PE,UFV,2019-01,13
+Poder Público,PE,UFV,2019-01,1
+Rural,GO,UFV,2019-01,11
+Comercial,RO,UFV,2019-01,1
+Residencial,SP,UFV,2019-01,4
+Residencial,MG,UFV,2019-02,1
+Comercial,GO,UFV,2019-02,46
+Industrial,PR,UFV,2019-02,2
+Residencial,RO,UFV,2019-02,16
+Comercial,PE,UFV,2019-02,21
+Comercial,RO,UFV,2019-02,4
+Residencial,SP,UFV,2019-02,1
+Residencial,GO,UFV,2019-02,151
+Residencial,RR,UFV,2019-02,2
+Rural,GO,UFV,2019-02,9
+Industrial,GO,UFV,2019-02,1
+Rural,RS,UFV,2019-02,1
+Industrial,PE,UFV,2019-02,3
+Residencial,PE,UFV,2019-02,89
+Residencial,PR,UFV,2019-02,2
+Comercial,PR,UFV,2019-02,2
+Residencial,BA,UFV,2019-02,3
+Rural,PE,UFV,2019-02,6
+Rural,RO,UFV,2019-02,2
+Comercial,BA,UFV,2019-02,1
+Industrial,RO,UFV,2019-02,2
+Comercial,RR,UFV,2019-02,1
+Residencial,MS,UFV,2019-02,3
+Comercial,SP,UFV,2019-03,1
+Industrial,PR,UFV,2019-03,3
+Industrial,GO,UFV,2019-03,3
+Rural,PR,UFV,2019-03,1
+Rural,GO,UFV,2019-03,13
+Residencial,PE,UFV,2019-03,60
+Residencial,GO,UFV,2019-03,158
+Comercial,GO,UFV,2019-03,48
+Residencial,RO,UFV,2019-03,9
+Residencial,RR,UFV,2019-03,4
+Industrial,PE,UFV,2019-03,1
+Residencial,PR,UFV,2019-03,11
+Residencial,PB,UFV,2019-03,1
+Residencial,SP,UFV,2019-03,4
+Residencial,BA,UFV,2019-03,1
+Rural,RO,UFV,2019-03,1
+Comercial,PE,UFV,2019-03,24
+Rural,PE,UFV,2019-03,2
+Comercial,PR,UFV,2019-03,4
+Poder Público,GO,UFV,2019-03,1
+Residencial,MS,UFV,2019-03,1
+Residencial,GO,UFV,2019-04,199
+Residencial,RO,UFV,2019-04,13
+Rural,GO,UFV,2019-04,8
+Rural,PE,UFV,2019-04,3
+Industrial,GO,UFV,2019-04,1
+Industrial,PR,UFV,2019-04,3
+Comercial,PE,UFV,2019-04,34
+Comercial,MG,UFV,2019-04,1
+Comercial,RO,UFV,2019-04,4
+Residencial,MG,UFV,2019-04,1
+Comercial,PR,UFV,2019-04,12
+Residencial,MS,UFV,2019-04,2
+Comercial,GO,UFV,2019-04,54
+Residencial,PE,UFV,2019-04,122
+Residencial,RS,UFV,2019-04,1
+Residencial,PR,UFV,2019-04,15
+Residencial,RR,UFV,2019-04,3
+Rural,PR,UFV,2019-04,9
+Rural,RO,UFV,2019-04,1
+Residencial,BA,UFV,2019-04,3
+Poder Público,RO,UFV,2019-04,1
+Residencial,SP,UFV,2019-04,2
+Comercial,BA,UFV,2019-05,2
+Industrial,RO,UFV,2019-05,1
+Comercial,PR,UFV,2019-05,7
+Residencial,BA,UFV,2019-05,2
+Residencial,PE,UFV,2019-05,134
+Residencial,PR,UFV,2019-05,12
+Rural,GO,UFV,2019-05,25
+Rural,PR,UFV,2019-05,7
+Residencial,MS,UFV,2019-05,3
+Industrial,PE,UFV,2019-05,2
+Residencial,GO,UFV,2019-05,228
+Rural,PE,UFV,2019-05,8
+Comercial,PE,UFV,2019-05,42
+Residencial,RO,UFV,2019-05,19
+Comercial,RO,UFV,2019-05,4
+Residencial,RR,UFV,2019-05,1
+Comercial,SP,UFV,2019-05,1
+Residencial,SP,UFV,2019-05,6
+Comercial,GO,UFV,2019-05,49
+Rural,SP,UFV,2019-06,1
+Rural,PE,UFV,2019-06,5
+Residencial,PE,UFV,2019-06,109
+Residencial,MS,UFV,2019-06,4
+Poder Público,PR,UFV,2019-06,1
+Residencial,MG,UFV,2019-06,1
+Residencial,BA,UFV,2019-06,2
+Residencial,RR,UFV,2019-06,1
+Industrial,GO,UFV,2019-06,4
+Residencial,PR,UFV,2019-06,5
+Comercial,GO,UFV,2019-06,72
+Industrial,PE,UFV,2019-06,1
+Rural,GO,UFV,2019-06,15
+Residencial,GO,UFV,2019-06,196
+Comercial,PB,UFV,2019-06,1
+Residencial,PB,UFV,2019-06,1
+Comercial,PR,UFV,2019-06,3
+Residencial,SP,UFV,2019-06,4
+Rural,RO,UFV,2019-06,1
+Comercial,PE,UFV,2019-06,28
+Industrial,PR,UFV,2019-06,1
+Rural,GO,UTE,2019-06,1
+Residencial,RO,UFV,2019-06,13
+Rural,PR,UFV,2019-06,2
+Rural,PE,UFV,2019-07,2
+Comercial,RO,UFV,2019-07,10
+Comercial,MG,UFV,2019-07,2
+Industrial,GO,UTE,2019-07,1
+Comercial,PR,UFV,2019-07,5
+Residencial,MG,UFV,2019-07,1
+Residencial,PR,UFV,2019-07,4
+Comercial,GO,UFV,2019-07,66
+Residencial,SP,UFV,2019-07,7
+Comercial,BA,UFV,2019-07,1
+Rural,PR,UFV,2019-07,3
+Residencial,PE,UFV,2019-07,120
+Industrial,PR,UFV,2019-07,1
+Residencial,RO,UFV,2019-07,17
+Industrial,GO,UFV,2019-07,5
+Comercial,PE,UFV,2019-07,53
+Comercial,SP,UFV,2019-07,1
+Residencial,PB,UFV,2019-07,1
+Residencial,GO,UFV,2019-07,430
+Rural,GO,UFV,2019-07,27
+Residencial,RR,UFV,2019-07,1
+Poder Público,GO,UFV,2019-07,1
+Residencial,PE,UFV,2019-08,164
+Residencial,PR,UFV,2019-08,2
+Comercial,RR,UFV,2019-08,3
+Residencial,RR,UFV,2019-08,10
+Comercial,BA,UFV,2019-08,1
+Residencial,GO,UFV,2019-08,341
+Comercial,PE,UFV,2019-08,80
+Rural,RR,UFV,2019-08,1
+Rural,RO,UFV,2019-08,2
+Rural,MG,UFV,2019-08,1
+Comercial,RO,UFV,2019-08,1
+Comercial,PB,UFV,2019-08,1
+Residencial,SP,UFV,2019-08,5
+Industrial,SP,UFV,2019-08,1
+Comercial,SP,UFV,2019-08,3
+Industrial,PR,UFV,2019-08,1
+Residencial,BA,UFV,2019-08,3
+Residencial,MG,UFV,2019-08,12
+Rural,SP,UFV,2019-08,1
+Comercial,MG,UFV,2019-08,4
+Comercial,PR,UFV,2019-08,4
+Rural,PE,UFV,2019-08,13
+Industrial,GO,UFV,2019-08,8
+Comercial,GO,UFV,2019-08,93
+Residencial,RO,UFV,2019-08,8
+Residencial,MS,UFV,2019-08,4
+Rural,GO,UFV,2019-08,24
+Residencial,GO,UFV,2019-09,309
+Rural,RO,UFV,2019-09,1
+Rural,SP,UFV,2019-09,2
+Residencial,PB,UFV,2019-09,3
+Industrial,PR,UFV,2019-09,3
+Residencial,MG,UFV,2019-09,9
+Residencial,BA,UFV,2019-09,2
+Comercial,MG,UFV,2019-09,7
+Rural,PR,UFV,2019-09,1
+Comercial,GO,UFV,2019-09,110
+Poder Público,MS,UFV,2019-09,1
+Industrial,PE,UFV,2019-09,2
+Residencial,MS,UFV,2019-09,1
+Rural,RR,UFV,2019-09,2
+Poder Público,GO,UFV,2019-09,2
+Residencial,PE,UFV,2019-09,124
+Rural,MG,UFV,2019-09,1
+Rural,GO,UFV,2019-09,29
+Residencial,RO,UFV,2019-09,26
+Comercial,RO,UFV,2019-09,7
+Comercial,RR,UFV,2019-09,1
+Comercial,PR,UFV,2019-09,2
+Residencial,SP,UFV,2019-09,9
+Comercial,PE,UFV,2019-09,41
+Industrial,GO,UFV,2019-09,8
+Residencial,RR,UFV,2019-09,3
+Residencial,PR,UFV,2019-09,1
+Comercial,SP,UFV,2019-09,3
+Rural,PE,UFV,2019-09,5
+Serviço Público,GO,UFV,2019-10,1
+Residencial,RO,UFV,2019-10,101
+Rural,PE,UFV,2019-10,12
+Residencial,MS,UFV,2019-10,1
+Comercial,PE,UFV,2019-10,50
+Rural,PR,UFV,2019-10,2
+Industrial,PR,UFV,2019-10,1
+Rural,RO,UFV,2019-10,5
+Industrial,GO,UFV,2019-10,4
+Residencial,SP,UFV,2019-10,2
+Comercial,RO,UTE,2019-10,1
+Comercial,GO,UFV,2019-10,102
+Industrial,PE,UFV,2019-10,1
+Residencial,RR,UFV,2019-10,7
+Rural,MG,UFV,2019-10,2
+Rural,GO,UFV,2019-10,20
+Comercial,MG,UFV,2019-10,2
+Residencial,GO,UFV,2019-10,287
+Residencial,PR,UFV,2019-10,4
+Comercial,RR,UFV,2019-10,1
+Comercial,RN,UFV,2019-10,1
+Residencial,PE,UFV,2019-10,190
+Comercial,BA,UFV,2019-10,2
+Poder Público,GO,UFV,2019-10,2
+Comercial,RO,UFV,2019-10,28
+Industrial,RO,UFV,2019-10,1
+Comercial,PR,UFV,2019-10,3
+Industrial,GO,UFV,2019-11,8
+Industrial,PR,UFV,2019-11,1
+Poder Público,GO,UFV,2019-11,2
+Poder Público,PR,UFV,2019-11,1
+Residencial,SP,UFV,2019-11,195
+Industrial,SP,UFV,2019-11,4
+Comercial,GO,UFV,2019-11,103
+Residencial,MS,UFV,2019-11,2
+Industrial,PE,UTE,2019-11,1
+Rural,RO,UFV,2019-11,6
+Rural,SP,UFV,2019-11,6
+Comercial,PE,UTE,2019-11,1
+Residencial,GO,UFV,2019-11,432
+Iluminação pública,PR,UFV,2019-11,1
+Rural,PR,UFV,2019-11,2
+Comercial,PR,UFV,2019-11,4
+Comercial,PE,UFV,2019-11,65
+Comercial,RO,UFV,2019-11,30
+Residencial,RR,UFV,2019-11,1
+Rural,MS,UFV,2019-11,1
+Rural,MG,UFV,2019-11,3
+Poder Público,PE,UFV,2019-11,1
+Residencial,PR,UFV,2019-11,6
+Residencial,PE,UFV,2019-11,158
+Rural,PE,UFV,2019-11,15
+Residencial,RO,UFV,2019-11,122
+Rural,GO,UFV,2019-11,14
+Comercial,SP,UFV,2019-11,40
+Residencial,MG,UFV,2019-11,3
+Industrial,SP,UFV,2019-12,68
+Comercial,BA,UFV,2019-12,1
+Residencial,RO,UFV,2019-12,157
+Comercial,RR,UFV,2019-12,1
+Residencial,RS,UFV,2019-12,1
+Comercial,SP,UFV,2019-12,364
+Residencial,BA,UFV,2019-12,1
+Industrial,PR,UFV,2019-12,4
+Rural,MS,UFV,2019-12,1
+Comercial,GO,UFV,2019-12,163
+Poder Público,MS,UFV,2019-12,2
+Rural,GO,UFV,2019-12,42
+Comercial,MG,UFV,2019-12,3
+Residencial,MS,UFV,2019-12,19
+Industrial,PE,UTE,2019-12,1
+Residencial,GO,UFV,2019-12,538
+Rural,SP,UTE,2019-12,1
+Comercial,BA,UTE,2019-12,1
+Poder Público,SP,UFV,2019-12,4
+Rural,SP,UFV,2019-12,62
+Poder Público,GO,UFV,2019-12,1
+Residencial,PE,UFV,2019-12,161
+Residencial,PR,UFV,2019-12,11
+Industrial,RO,UFV,2019-12,3
+Comercial,RO,UFV,2019-12,40
+Poder Público,RO,UFV,2019-12,1
+Residencial,RR,UFV,2019-12,13
+Industrial,RO,CGH,2019-12,1
+Rural,GO,UTE,2019-12,1
+Residencial,GO,UTE,2019-12,1
+Industrial,PE,UFV,2019-12,3
+Residencial,MG,UFV,2019-12,2
+Comercial,PE,UFV,2019-12,65
+Residencial,SP,UFV,2019-12,2402
+Industrial,GO,UFV,2019-12,10
+Rural,PR,UFV,2019-12,3
+Rural,RO,UFV,2019-12,7
+Rural,PE,UFV,2019-12,16
+Comercial,PR,UFV,2019-12,9
+Residencial,BA,UFV,2020-01,2
+Comercial,SP,UFV,2020-01,410
+Industrial,RO,UFV,2020-01,3
+Residencial,MS,UFV,2020-01,2
+Rural,RO,UFV,2020-01,14
+Comercial,PR,UFV,2020-01,7
+Residencial,RR,UFV,2020-01,14
+Residencial,MG,UFV,2020-01,2
+Rural,PE,UFV,2020-01,11
+Poder Público,RO,UFV,2020-01,4
+Residencial,PR,UFV,2020-01,9
+Rural,GO,UFV,2020-01,59
+Rural,SP,UFV,2020-01,77
+Comercial,PE,UFV,2020-01,72
+Residencial,PE,UFV,2020-01,198
+Residencial,SP,UFV,2020-01,2276
+Industrial,GO,UFV,2020-01,15
+Rural,SP,UTE,2020-01,1
+Rural,PR,UFV,2020-01,4
+Comercial,GO,UFV,2020-01,202
+Industrial,PR,UFV,2020-01,8
+Poder Público,SP,UFV,2020-01,5
+Rural,RR,UFV,2020-01,1
+Residencial,GO,UFV,2020-01,693
+Industrial,SP,UFV,2020-01,83
+Comercial,MG,UFV,2020-01,2
+Residencial,RO,UFV,2020-01,165
+Comercial,RO,UFV,2020-01,32
+Comercial,PR,UFV,2020-02,8
+Poder Público,GO,UFV,2020-02,6
+Residencial,RR,UFV,2020-02,9
+Comercial,BA,UFV,2020-02,2
+Residencial,MS,UFV,2020-02,4
+Poder Público,PE,UFV,2020-02,5
+Residencial,SP,UFV,2020-02,2268
+Residencial,MG,UFV,2020-02,2
+Serviço Público,SP,UFV,2020-02,4
+Comercial,RN,UFV,2020-02,2
+Comercial,GO,UFV,2020-02,142
+Comercial,PE,UFV,2020-02,57
+Industrial,SP,UFV,2020-02,56
+Comercial,RR,UFV,2020-02,1
+Comercial,RO,UFV,2020-02,40
+Residencial,PB,UFV,2020-02,2
+Residencial,GO,UFV,2020-02,540
+Iluminação pública,SP,UFV,2020-02,1
+Comercial,SP,UFV,2020-02,366
+Residencial,RO,UFV,2020-02,163
+Comercial,MG,UFV,2020-02,2
+Rural,RO,UFV,2020-02,6
+Industrial,PE,UFV,2020-02,1
+Industrial,PR,UFV,2020-02,5
+Rural,PE,UFV,2020-02,8
+Industrial,GO,UFV,2020-02,7
+Poder Público,SP,UFV,2020-02,1
+Rural,PR,UFV,2020-02,6
+Rural,SP,UFV,2020-02,76
+Industrial,MG,UFV,2020-02,2
+Residencial,PR,UFV,2020-02,21
+Residencial,PE,UFV,2020-02,219
+Rural,GO,UFV,2020-02,37
+Comercial,MS,UFV,2020-02,1
+Residencial,BA,UFV,2020-02,1
+Industrial,PR,UFV,2020-03,4
+Comercial,PE,UFV,2020-03,72
+Residencial,RO,UFV,2020-03,152
+Industrial,SP,UFV,2020-03,82
+Iluminação pública,SP,UFV,2020-03,1
+Rural,PR,UFV,2020-03,5
+Comercial,GO,UFV,2020-03,189
+Industrial,PE,UFV,2020-03,6
+Residencial,MG,UFV,2020-03,3
+Rural,SP,UFV,2020-03,128
+Residencial,SP,UFV,2020-03,2703
+Poder Público,SP,UFV,2020-03,17
+Rural,PE,UFV,2020-03,13
+Comercial,RO,UFV,2020-03,42
+Residencial,PR,UFV,2020-03,22
+Residencial,PE,UFV,2020-03,254
+Poder Público,GO,UFV,2020-03,4
+Industrial,GO,UFV,2020-03,9
+Rural,GO,UFV,2020-03,54
+Residencial,RR,UFV,2020-03,25
+Comercial,BA,UFV,2020-03,3
+Residencial,GO,UFV,2020-03,657
+Comercial,RN,UFV,2020-03,3
+Comercial,RR,UFV,2020-03,5
+Rural,MG,UFV,2020-03,2
+Residencial,MS,UFV,2020-03,5
+Rural,RO,UFV,2020-03,10
+Comercial,PR,UFV,2020-03,9
+Poder Público,PR,UFV,2020-03,1
+Comercial,SP,UFV,2020-03,482
+Residencial,BA,UFV,2020-03,5
+Industrial,RO,UFV,2020-03,6
+Comercial,MG,UFV,2020-04,3
+Poder Público,SP,UFV,2020-04,4
+Rural,MS,UFV,2020-04,3
+Residencial,SP,UFV,2020-04,1838
+Poder Público,PE,UFV,2020-04,1
+Comercial,RN,UFV,2020-04,1
+Rural,GO,UFV,2020-04,58
+Comercial,PR,UFV,2020-04,20
+Rural,PE,UFV,2020-04,21
+Residencial,MG,UFV,2020-04,4
+Comercial,RO,UFV,2020-04,17
+Residencial,MS,UFV,2020-04,4
+Residencial,PR,UFV,2020-04,44
+Industrial,RO,UFV,2020-04,1
+Residencial,PE,UFV,2020-04,280
+Residencial,GO,UFV,2020-04,479
+Rural,RO,UFV,2020-04,6
+Rural,SP,UFV,2020-04,85
+Industrial,PE,UFV,2020-04,2
+Comercial,GO,UFV,2020-04,188
+Industrial,SP,UFV,2020-04,49
+Industrial,PR,UFV,2020-04,4
+Rural,RR,UFV,2020-04,1
+Comercial,PE,UFV,2020-04,76
+Comercial,RR,UFV,2020-04,2
+Residencial,RO,UFV,2020-04,94
+Residencial,BA,UFV,2020-04,4
+Rural,PR,UFV,2020-04,16
+Residencial,RR,UFV,2020-04,17
+Industrial,GO,UFV,2020-04,12
+Comercial,SP,UFV,2020-04,348
+Residencial,MS,UFV,2020-05,3
+Comercial,PE,UFV,2020-05,81
+Industrial,PR,UFV,2020-05,9
+Industrial,RO,UFV,2020-05,2
+Industrial,SP,UFV,2020-05,53
+Industrial,GO,UFV,2020-05,8
+Comercial,SP,UFV,2020-05,273
+Residencial,PE,UFV,2020-05,266
+Poder Público,RR,UFV,2020-05,1
+Rural,GO,UTE,2020-05,1
+Residencial,MG,UFV,2020-05,3
+Residencial,GO,UFV,2020-05,435
+Residencial,RO,UFV,2020-05,106
+Poder Público,GO,UFV,2020-05,1
+Residencial,BA,UFV,2020-05,2
+Residencial,PR,UFV,2020-05,24
+Poder Público,SP,UFV,2020-05,5
+Residencial,SP,UFV,2020-05,1476
+Residencial,RR,UFV,2020-05,10
+Rural,MG,UFV,2020-05,1
+Rural,GO,UFV,2020-05,57
+Rural,SP,UFV,2020-05,84
+Comercial,RR,UFV,2020-05,6
+Rural,PR,UFV,2020-05,15
+Industrial,PE,UFV,2020-05,2
+Rural,RO,UFV,2020-05,9
+Rural,PE,UFV,2020-05,24
+Poder Público,PE,UFV,2020-05,2
+Comercial,RO,UFV,2020-05,30
+Comercial,GO,UFV,2020-05,156
+Comercial,PR,UFV,2020-05,12
+Rural,RS,UFV,2020-06,1
+Comercial,PE,UFV,2020-06,83
+Rural,GO,UFV,2020-06,64
+Rural,MG,UFV,2020-06,4
+Rural,SP,UFV,2020-06,87
+Industrial,RO,UFV,2020-06,1
+Rural,RO,UFV,2020-06,10
+Comercial,SP,UFV,2020-06,213
+Rural,PR,UFV,2020-06,20
+Residencial,RO,UFV,2020-06,111
+Comercial,MG,UFV,2020-06,6
+Residencial,GO,UFV,2020-06,345
+Industrial,PR,UFV,2020-06,2
+Poder Público,SP,UFV,2020-06,7
+Industrial,PE,UFV,2020-06,10
+Residencial,PR,UFV,2020-06,31
+Residencial,PE,UFV,2020-06,319
+Rural,PE,UFV,2020-06,17
+Poder Público,RR,UFV,2020-06,18
+Industrial,GO,UFV,2020-06,5
+Residencial,RR,UFV,2020-06,11
+Residencial,MS,UFV,2020-06,2
+Comercial,RR,UFV,2020-06,1
+Industrial,SP,UFV,2020-06,41
+Comercial,BA,UFV,2020-06,1
+Poder Público,GO,UFV,2020-06,2
+Serviço Público,SP,UFV,2020-06,2
+Comercial,GO,UFV,2020-06,128
+Comercial,RO,UFV,2020-06,27
+Residencial,BA,UFV,2020-06,3
+Poder Público,PE,UFV,2020-06,1
+Residencial,MG,UFV,2020-06,4
+Residencial,SP,UFV,2020-06,1434
+Comercial,PR,UFV,2020-06,10
+Residencial,BA,UFV,2020-07,4
+Rural,SP,UFV,2020-07,88
+Poder Público,RR,UFV,2020-07,28
+Poder Público,SP,UFV,2020-07,6
+Poder Público,PE,UFV,2020-07,1
+Serviço Público,SP,UFV,2020-07,2
+Comercial,BA,UFV,2020-07,1
+Comercial,PR,UFV,2020-07,18
+Poder Público,RO,UFV,2020-07,4
+Comercial,MS,UFV,2020-07,2
+Rural,GO,UTE,2020-07,1
+Residencial,MG,UFV,2020-07,8
+Comercial,GO,UFV,2020-07,148
+Industrial,PR,UFV,2020-07,3
+Comercial,MG,UFV,2020-07,2
+Industrial,SP,UFV,2020-07,40
+Residencial,SP,UFV,2020-07,2066
+Comercial,RR,UFV,2020-07,2
+Comercial,SP,UFV,2020-07,265
+Rural,BA,UFV,2020-07,1
+Rural,MG,UTE,2020-07,1
+Industrial,PE,UFV,2020-07,5
+Industrial,GO,UFV,2020-07,9
+Residencial,RO,UFV,2020-07,123
+Comercial,RO,UFV,2020-07,40
+Rural,RO,UFV,2020-07,10
+Residencial,PR,UFV,2020-07,40
+Industrial,MG,UFV,2020-07,1
+Residencial,GO,UFV,2020-07,423
+Comercial,PE,UFV,2020-07,76
+Rural,GO,UFV,2020-07,56
+Industrial,RO,UFV,2020-07,2
+Residencial,PE,UFV,2020-07,364
+Residencial,RR,UFV,2020-07,13
+Residencial,MS,UFV,2020-07,6
+Rural,PE,UFV,2020-07,35
+Rural,MG,UFV,2020-07,2
+Rural,MS,UFV,2020-07,3
+Rural,PR,UFV,2020-07,16
+Comercial,SP,UFV,2020-08,210
+Rural,PR,UFV,2020-08,21
+Comercial,PR,UFV,2020-08,23
+Industrial,PR,UFV,2020-08,8
+Comercial,MG,UFV,2020-08,6
+Industrial,RO,UFV,2020-08,3
+Poder Público,SP,UFV,2020-08,5
+Industrial,BA,UFV,2020-08,1
+Industrial,PE,UFV,2020-08,3
+Industrial,GO,UFV,2020-08,10
+Residencial,PR,UFV,2020-08,48
+Rural,GO,UTE,2020-08,1
+Residencial,PE,UFV,2020-08,297
+Poder Público,RR,UFV,2020-08,1
+Rural,PE,UFV,2020-08,19
+Residencial,RO,UFV,2020-08,162
+Rural,RO,UFV,2020-08,12
+Residencial,MS,UFV,2020-08,4
+Industrial,SP,UFV,2020-08,33
+Comercial,RO,UFV,2020-08,42
+Rural,GO,UFV,2020-08,65
+Rural,BA,UFV,2020-08,1
+Poder Público,PR,UFV,2020-08,1
+Residencial,SP,UFV,2020-08,2132
+Comercial,PE,UFV,2020-08,61
+Residencial,MG,UFV,2020-08,5
+Poder Público,PE,UFV,2020-08,3
+Residencial,GO,UFV,2020-08,463
+Comercial,GO,UFV,2020-08,126
+Poder Público,BA,UFV,2020-08,2
+Comercial,BA,UFV,2020-08,7
+Comercial,MS,UFV,2020-08,1
+Rural,MG,UFV,2020-08,4
+Rural,RS,UFV,2020-08,1
+Comercial,RR,UFV,2020-08,1
+Residencial,BA,UFV,2020-08,9
+Residencial,RR,UFV,2020-08,9
+Rural,SP,UFV,2020-08,59
+Residencial,PE,UFV,2020-09,416
+Poder Público,RR,UFV,2020-09,3
+Rural,GO,UFV,2020-09,47
+Rural,PE,UFV,2020-09,27
+Rural,MG,UFV,2020-09,5
+Residencial,MS,UFV,2020-09,2
+Residencial,PR,UFV,2020-09,33
+Residencial,GO,UFV,2020-09,421
+Rural,BA,UFV,2020-09,1
+Poder Público,SP,UFV,2020-09,1
+Rural,GO,UTE,2020-09,1
+Residencial,MG,UFV,2020-09,6
+Serviço Público,SP,UFV,2020-09,1
+Residencial,RO,UFV,2020-09,128
+Rural,PR,UFV,2020-09,11
+Rural,RO,UFV,2020-09,13
+Residencial,RR,UFV,2020-09,11
+Rural,SP,UFV,2020-09,87
+Residencial,SP,UFV,2020-09,1912
+Residencial,BA,UFV,2020-09,2
+Comercial,RO,UFV,2020-09,35
+Comercial,GO,UFV,2020-09,139
+Comercial,PR,UFV,2020-09,21
+Comercial,SP,UFV,2020-09,253
+Comercial,RR,UFV,2020-09,1
+Industrial,PE,UFV,2020-09,7
+Poder Público,GO,UFV,2020-09,3
+Industrial,PR,UFV,2020-09,10
+Industrial,SP,UFV,2020-09,38
+Comercial,MG,UFV,2020-09,5
+Poder Público,PE,UFV,2020-09,3
+Industrial,GO,UFV,2020-09,6
+Industrial,RO,UFV,2020-09,4
+Poder Público,PR,UFV,2020-09,1
+Comercial,PE,UFV,2020-09,86
+Comercial,MG,CGH,2020-09,1
+Comercial,RN,UFV,2020-09,1
+Industrial,RO,UFV,2020-10,4
+Serviço Público,PE,UFV,2020-10,1
+Residencial,BA,UFV,2020-10,1
+Industrial,SP,UFV,2020-10,41
+Poder Público,SP,UFV,2020-10,9
+Residencial,RO,UFV,2020-10,197
+Residencial,RR,UFV,2020-10,11
+Industrial,PE,UFV,2020-10,4
+Residencial,GO,UFV,2020-10,573
+Rural,PR,UFV,2020-10,17
+Residencial,PR,UFV,2020-10,55
+Rural,MG,UFV,2020-10,5
+Industrial,MS,UFV,2020-10,1
+Comercial,SP,UFV,2020-10,269
+Comercial,GO,UFV,2020-10,121
+Industrial,MG,UFV,2020-10,4
+Rural,PE,UFV,2020-10,24
+Industrial,PR,UFV,2020-10,9
+Rural,SP,UFV,2020-10,103
+Residencial,MG,UFV,2020-10,9
+Comercial,PE,UFV,2020-10,78
+Residencial,PB,UFV,2020-10,1
+Comercial,RO,UFV,2020-10,33
+Industrial,GO,UFV,2020-10,6
+Rural,MS,UFV,2020-10,1
+Comercial,BA,UFV,2020-10,4
+Comercial,PR,UFV,2020-10,16
+Residencial,MS,UFV,2020-10,7
+Comercial,MG,UFV,2020-10,16
+Rural,GO,UFV,2020-10,54
+Rural,BA,UFV,2020-10,1
+Residencial,PE,UFV,2020-10,321
+Residencial,SP,UFV,2020-10,2137
+Rural,RO,UFV,2020-10,25
+Serviço Público,SP,UFV,2020-10,1
+Poder Público,GO,UFV,2020-10,1
+Rural,MS,UFV,2020-11,2
+Residencial,BA,UFV,2020-11,2
+Residencial,PE,UFV,2020-11,380
+Industrial,SP,UFV,2020-11,36
+Comercial,RR,UFV,2020-11,1
+Comercial,RO,UFV,2020-11,35
+Comercial,RN,UFV,2020-11,1
+Rural,PE,UFV,2020-11,16
+Industrial,PE,UFV,2020-11,3
+Rural,RO,UFV,2020-11,17
+Residencial,SP,UFV,2020-11,2625
+Rural,GO,UFV,2020-11,53
+Poder Público,PE,UFV,2020-11,3
+Residencial,MS,UFV,2020-11,6
+Industrial,RO,UFV,2020-11,1
+Comercial,PR,UFV,2020-11,33
+Industrial,PR,UFV,2020-11,9
+Rural,SP,UFV,2020-11,88
+Residencial,MG,UFV,2020-11,17
+Poder Público,RR,UFV,2020-11,1
+Residencial,GO,UFV,2020-11,589
+Residencial,PR,UFV,2020-11,68
+Comercial,PE,UFV,2020-11,105
+Residencial,RO,UFV,2020-11,219
+Comercial,BA,UFV,2020-11,1
+Comercial,GO,UFV,2020-11,128
+Comercial,SP,UFV,2020-11,253
+Industrial,GO,UFV,2020-11,10
+Industrial,MG,UFV,2020-11,9
+Comercial,GO,UTE,2020-11,1
+Rural,MG,UFV,2020-11,10
+Poder Público,GO,UFV,2020-11,3
+Industrial,MS,UFV,2020-11,2
+Residencial,RR,UFV,2020-11,16
+Rural,PR,UFV,2020-11,30
+Comercial,MG,UFV,2020-11,18
+Poder Público,SP,UFV,2020-11,7
+Rural,BA,UFV,2020-12,1
+Comercial,MG,UFV,2020-12,26
+Comercial,PE,UFV,2020-12,87
+Poder Público,PE,UFV,2020-12,5
+Rural,GO,UFV,2020-12,58
+Residencial,RO,UFV,2020-12,201
+Rural,MG,UTE,2020-12,1
+Residencial,SP,UFV,2020-12,517
+Residencial,MS,UFV,2020-12,6
+Comercial,MG,CGH,2020-12,1
+Comercial,RO,UFV,2020-12,31
+Rural,MS,UFV,2020-12,1
+Rural,PR,UFV,2020-12,26
+Industrial,GO,UFV,2020-12,9
+Comercial,BA,UFV,2020-12,7
+Residencial,PE,UFV,2020-12,379
+Residencial,PR,UFV,2020-12,47
+Industrial,MG,UFV,2020-12,4
+Comercial,PR,UFV,2020-12,17
+Comercial,SP,UFV,2020-12,53
+Industrial,SP,UFV,2020-12,8
+Rural,PE,UFV,2020-12,23
+Poder Público,RO,UFV,2020-12,1
+Poder Público,SP,UFV,2020-12,3
+Industrial,PE,UFV,2020-12,5
+Rural,MG,UFV,2020-12,6
+Residencial,GO,UFV,2020-12,743
+Rural,RO,UFV,2020-12,18
+Comercial,GO,UFV,2020-12,135
+Residencial,RS,UFV,2020-12,1
+Residencial,MG,UFV,2020-12,32
+Residencial,BA,UFV,2020-12,12
+Industrial,PR,UFV,2020-12,10
+Rural,SP,UFV,2020-12,29
+Residencial,RR,UFV,2020-12,32
+Poder Público,MG,UFV,2020-12,1
+Comercial,RR,UFV,2020-12,3
+Residencial,MG,UFV,2021-01,128
+Poder Público,MS,UFV,2021-01,2
+Poder Público,MG,UFV,2021-01,2
+Residencial,GO,UFV,2021-01,543
+Comercial,PE,UFV,2021-01,109
+Comercial,PR,UFV,2021-01,11
+Poder Público,BA,UFV,2021-01,10
+Residencial,MS,UFV,2021-01,3
+Rural,GO,UFV,2021-01,44
+Industrial,PE,UFV,2021-01,4
+Comercial,RO,UFV,2021-01,38
+Residencial,BA,UFV,2021-01,630
+Residencial,PE,UFV,2021-01,462
+Comercial,RN,UFV,2021-01,1
+Residencial,RR,UFV,2021-01,20
+Industrial,MG,UFV,2021-01,4
+Comercial,MS,UFV,2021-01,2
+Residencial,PR,UFV,2021-01,27
+Comercial,RR,UFV,2021-01,1
+Rural,PR,UFV,2021-01,12
+Comercial,GO,UFV,2021-01,105
+Comercial,BA,UFV,2021-01,181
+Poder Público,RO,UFV,2021-01,1
+Comercial,MG,UFV,2021-01,34
+Industrial,GO,UFV,2021-01,6
+Residencial,RO,UFV,2021-01,305
+Industrial,BA,UFV,2021-01,11
+Serviço Público,PR,UFV,2021-01,1
+Rural,RO,UFV,2021-01,21
+Rural,MG,UFV,2021-01,38
+Poder Público,PE,UFV,2021-01,4
+Rural,PE,UFV,2021-01,28
+Comercial,PB,UFV,2021-01,1
+Industrial,PR,UFV,2021-01,5
+Residencial,SP,UFV,2021-01,2
+Rural,BA,UFV,2021-01,47
+Industrial,RO,UFV,2021-01,5
+Rural,BA,UFV,2021-02,31
+Residencial,PB,UFV,2021-02,3
+Poder Público,BA,UFV,2021-02,2
+Rural,RO,UFV,2021-02,21
+Residencial,RO,UFV,2021-02,352
+Residencial,MS,UFV,2021-02,6
+Iluminação pública,RO,UFV,2021-02,1
+Comercial,RO,UFV,2021-02,46
+Industrial,BA,UFV,2021-02,13
+Comercial,PE,UFV,2021-02,88
+Industrial,RO,UFV,2021-02,3
+Residencial,SP,UFV,2021-02,2
+Residencial,PR,UFV,2021-02,11
+Comercial,GO,UFV,2021-02,155
+Rural,GO,UFV,2021-02,67
+Industrial,MG,UFV,2021-02,4
+Comercial,PR,UFV,2021-02,4
+Residencial,MG,UFV,2021-02,146
+Residencial,RR,UFV,2021-02,15
+Rural,RR,UFV,2021-02,1
+Industrial,PR,UFV,2021-02,3
+Comercial,RR,UFV,2021-02,3
+Industrial,PE,UFV,2021-02,10
+Industrial,GO,UFV,2021-02,6
+Residencial,PE,UFV,2021-02,513
+Rural,PR,UFV,2021-02,7
+Poder Público,MG,UFV,2021-02,2
+Rural,MG,UFV,2021-02,59
+Residencial,BA,UFV,2021-02,925
+Rural,PE,UFV,2021-02,40
+Residencial,GO,UFV,2021-02,871
+Poder Público,GO,UFV,2021-02,1
+Poder Público,PE,UFV,2021-02,5
+Comercial,MS,UFV,2021-02,1
+Comercial,BA,UFV,2021-02,200
+Poder Público,RO,UFV,2021-02,6
+Comercial,MG,UFV,2021-02,18
+Serviço Público,PE,UFV,2021-02,1
+Industrial,PR,UFV,2021-03,5
+Rural,GO,UFV,2021-03,114
+Residencial,SP,UFV,2021-03,3
+Comercial,GO,UFV,2021-03,212
+Poder Público,MS,UFV,2021-03,2
+Rural,MG,UTE,2021-03,1
+Comercial,RO,UFV,2021-03,62
+Residencial,MS,UFV,2021-03,7
+Rural,BA,UFV,2021-03,67
+Comercial,BA,UFV,2021-03,297
+Comercial,RN,UFV,2021-03,1
+Industrial,RO,UFV,2021-03,3
+Poder Público,PE,UFV,2021-03,20
+Residencial,PB,UFV,2021-03,1
+Rural,MG,UFV,2021-03,314
+Comercial,PB,UFV,2021-03,1
+Rural,PR,UFV,2021-03,30
+Residencial,RO,UFV,2021-03,412
+Poder Público,RO,UFV,2021-03,1
+Industrial,GO,UFV,2021-03,12
+Comercial,MG,UFV,2021-03,252
+Comercial,SP,UFV,2021-03,1
+Residencial,PR,UFV,2021-03,60
+Serviço Público,MG,UFV,2021-03,1
+Comercial,MS,UFV,2021-03,2
+Industrial,MS,UFV,2021-03,1
+Residencial,RR,UFV,2021-03,33
+Residencial,PE,UFV,2021-03,740
+Rural,PE,UFV,2021-03,41
+Residencial,BA,UFV,2021-03,1393
+Rural,RO,UFV,2021-03,33
+Comercial,PR,UFV,2021-03,30
+Industrial,MG,UFV,2021-03,41
+Industrial,PE,UFV,2021-03,9
+Industrial,BA,UFV,2021-03,14
+Residencial,MG,UFV,2021-03,1538
+Poder Público,BA,UFV,2021-03,4
+Poder Público,GO,UFV,2021-03,1
+Comercial,PE,UFV,2021-03,108
+Residencial,GO,UFV,2021-03,1138
+Residencial,PE,UFV,2021-04,581
+Comercial,MS,UFV,2021-04,1
+Comercial,RO,UFV,2021-04,33
+Rural,GO,UFV,2021-04,92
+Poder Público,BA,UFV,2021-04,3
+Industrial,BA,UFV,2021-04,9
+Comercial,PB,UFV,2021-04,1
+Industrial,MG,UFV,2021-04,44
+Industrial,PE,UFV,2021-04,9
+Rural,MS,UFV,2021-04,3
+Comercial,PE,UFV,2021-04,74
+Industrial,RO,UFV,2021-04,3
+Residencial,BA,UFV,2021-04,1094
+Comercial,RR,UFV,2021-04,2
+Rural,MG,UTE,2021-04,2
+Rural,RO,UFV,2021-04,20
+Residencial,RR,UFV,2021-04,15
+Residencial,MS,UFV,2021-04,4
+Residencial,MG,UFV,2021-04,1897
+Rural,PE,UFV,2021-04,26
+Residencial,PR,UFV,2021-04,97
+Industrial,RR,UFV,2021-04,3
+Industrial,PR,UFV,2021-04,9
+Poder Público,MG,UFV,2021-04,10
+Industrial,SP,UFV,2021-04,1
+Poder Público,RO,UFV,2021-04,3
+Residencial,SP,UFV,2021-04,6
+Industrial,GO,UFV,2021-04,5
+Residencial,GO,UFV,2021-04,946
+Residencial,RO,UFV,2021-04,302
+Rural,PR,UFV,2021-04,26
+Poder Público,PE,UFV,2021-04,10
+Rural,MG,UFV,2021-04,468
+Comercial,PR,UFV,2021-04,29
+Comercial,BA,UFV,2021-04,265
+Rural,BA,UFV,2021-04,61
+Comercial,MG,UFV,2021-04,345
+Comercial,GO,UFV,2021-04,132
+Rural,BA,UFV,2021-05,84
+Rural,MG,CGH,2021-05,1
+Comercial,RR,UFV,2021-05,6
+Comercial,GO,UFV,2021-05,147
+Residencial,MG,UFV,2021-05,3984
+Poder Público,PB,UFV,2021-05,1
+Industrial,PR,UFV,2021-05,12
+Residencial,SP,UFV,2021-05,7
+Industrial,PE,UFV,2021-05,4
+Poder Público,PE,UFV,2021-05,6
+Poder Público,BA,UFV,2021-05,1
+Residencial,GO,UFV,2021-05,968
+Comercial,RO,UFV,2021-05,19
+Comercial,BA,UFV,2021-05,310
+Residencial,PB,UFV,2021-05,1
+Residencial,BA,UFV,2021-05,1520
+Residencial,PE,UFV,2021-05,661
+Residencial,MS,UFV,2021-05,10
+Comercial,MS,UFV,2021-05,1
+Residencial,PR,UFV,2021-05,227
+Comercial,MG,UFV,2021-05,589
+Industrial,GO,UFV,2021-05,8
+Rural,GO,UFV,2021-05,109
+Residencial,MG,UTE,2021-05,1
+Rural,PR,UFV,2021-05,74
+Poder Público,GO,UFV,2021-05,1
+Poder Público,MG,UFV,2021-05,10
+Industrial,MG,UFV,2021-05,51
+Residencial,RO,UFV,2021-05,323
+Rural,MG,UFV,2021-05,786
+Comercial,PR,UFV,2021-05,53
+Rural,RO,UFV,2021-05,24
+Industrial,BA,UFV,2021-05,17
+Residencial,RR,UFV,2021-05,26
+Rural,MG,UTE,2021-05,4
+Comercial,PE,UFV,2021-05,106
+Rural,PE,UFV,2021-05,35
+Comercial,SP,UFV,2021-05,1
+Industrial,RO,UFV,2021-05,3
+Poder Público,RO,UFV,2021-05,1
+Residencial,SP,UFV,2021-06,4
+Comercial,GO,UFV,2021-06,148
+Poder Público,RO,UFV,2021-06,2
+Residencial,RO,UFV,2021-06,262
+Comercial,SP,UFV,2021-06,2
+Industrial,GO,UFV,2021-06,4
+Industrial,BA,UFV,2021-06,9
+Rural,RO,UFV,2021-06,29
+Rural,MG,UFV,2021-06,694
+Rural,RR,UFV,2021-06,3
+Residencial,PR,UFV,2021-06,254
+Comercial,PE,UFV,2021-06,101
+Residencial,RR,UFV,2021-06,17
+Comercial,RR,UFV,2021-06,1
+Rural,PE,UFV,2021-06,43
+Residencial,BA,UFV,2021-06,1406
+Industrial,MG,UFV,2021-06,52
+Rural,PR,UFV,2021-06,86
+Industrial,PE,UFV,2021-06,11
+Comercial,BA,UFV,2021-06,294
+Poder Público,BA,UFV,2021-06,4
+Comercial,PB,UFV,2021-06,1
+Residencial,PE,UFV,2021-06,737
+Rural,SP,UFV,2021-06,2
+Residencial,GO,UFV,2021-06,880
+Comercial,MG,UFV,2021-06,459
+Industrial,PR,UFV,2021-06,10
+Rural,GO,UTE,2021-06,1
+Poder Público,PE,UFV,2021-06,4
+Rural,BA,UFV,2021-06,70
+Comercial,RO,UFV,2021-06,25
+Industrial,RO,UFV,2021-06,1
+Residencial,MS,UFV,2021-06,7
+Poder Público,MG,UFV,2021-06,3
+Poder Público,GO,UFV,2021-06,1
+Residencial,MG,UFV,2021-06,2785
+Rural,MG,UTE,2021-06,1
+Residencial,PB,UFV,2021-06,1
+Comercial,PR,UFV,2021-06,67
+Rural,GO,UFV,2021-06,92
+Industrial,PE,UFV,2021-07,12
+Poder Público,BA,UFV,2021-07,1
+Rural,GO,UFV,2021-07,107
+Rural,SP,UFV,2021-07,1
+Residencial,MG,UFV,2021-07,3546
+Comercial,MS,UFV,2021-07,4
+Comercial,PR,UFV,2021-07,59
+Rural,MG,UFV,2021-07,799
+Industrial,RO,UFV,2021-07,1
+Rural,MS,UFV,2021-07,2
+Industrial,MG,UFV,2021-07,38
+Residencial,BA,UFV,2021-07,1655
+Rural,PE,UFV,2021-07,64
+Rural,MG,UTE,2021-07,2
+Residencial,MS,UFV,2021-07,10
+Comercial,RR,UFV,2021-07,6
+Residencial,RR,UFV,2021-07,12
+Rural,RR,UFV,2021-07,1
+Residencial,PE,UFV,2021-07,966
+Industrial,PB,UFV,2021-07,1
+Rural,GO,UTE,2021-07,1
+Rural,PR,UFV,2021-07,83
+Comercial,PB,UFV,2021-07,1
+Comercial,MG,UFV,2021-07,534
+Residencial,PR,UFV,2021-07,309
+Rural,BA,UFV,2021-07,116
+Comercial,PE,UFV,2021-07,139
+Industrial,BA,UFV,2021-07,17
+Comercial,GO,UFV,2021-07,155
+Poder Público,RO,UFV,2021-07,6
+Poder Público,GO,UFV,2021-07,3
+Residencial,SP,UFV,2021-07,14
+Poder Público,MG,UFV,2021-07,9
+Comercial,RO,UFV,2021-07,28
+Comercial,BA,UFV,2021-07,344
+Industrial,GO,UFV,2021-07,7
+Residencial,RO,UFV,2021-07,294
+Poder Público,PE,UFV,2021-07,8
+Poder Público,PR,UFV,2021-07,1
+Industrial,PR,UFV,2021-07,21
+Residencial,GO,UFV,2021-07,1032
+Rural,RO,UFV,2021-07,26
+Comercial,SP,UFV,2021-07,2
+Rural,GO,UFV,2021-08,125
+Comercial,BA,UFV,2021-08,368
+Comercial,PE,UFV,2021-08,170
+Rural,SP,UFV,2021-08,1
+Residencial,PE,UFV,2021-08,1199
+Residencial,RR,UFV,2021-08,11
+Residencial,PR,UFV,2021-08,434
+Residencial,MS,UFV,2021-08,7
+Poder Público,PR,UFV,2021-08,1
+Industrial,BA,UFV,2021-08,20
+Poder Público,RO,UFV,2021-08,1
+Comercial,MG,UFV,2021-08,575
+Residencial,RO,UFV,2021-08,365
+Comercial,MS,UFV,2021-08,2
+Poder Público,RR,UFV,2021-08,3
+Comercial,PB,UFV,2021-08,4
+Residencial,GO,UFV,2021-08,1236
+Rural,PE,UFV,2021-08,71
+Comercial,SP,UFV,2021-08,1
+Industrial,MG,UFV,2021-08,55
+Rural,RO,UFV,2021-08,36
+Industrial,RO,UFV,2021-08,1
+Industrial,GO,UFV,2021-08,4
+Rural,MG,UFV,2021-08,839
+Poder Público,GO,UFV,2021-08,4
+Poder Público,MG,UFV,2021-08,4
+Industrial,PE,UFV,2021-08,11
+Residencial,PB,UFV,2021-08,3
+Rural,MS,UFV,2021-08,4
+Residencial,BA,UFV,2021-08,1765
+Poder Público,BA,UFV,2021-08,3
+Residencial,SP,UFV,2021-08,6
+Residencial,MG,UFV,2021-08,3896
+Rural,MG,UTE,2021-08,4
+Comercial,RO,UFV,2021-08,35
+Poder Público,PE,UFV,2021-08,9
+Comercial,RR,UFV,2021-08,1
+Comercial,PR,UFV,2021-08,99
+Rural,PR,UFV,2021-08,184
+Industrial,PR,UFV,2021-08,51
+Comercial,GO,UFV,2021-08,171
+Rural,BA,UFV,2021-08,128
+Poder Público,RR,UFV,2021-09,1
+Comercial,MS,UFV,2021-09,3
+Comercial,SP,UFV,2021-09,3
+Rural,MS,UFV,2021-09,1
+Industrial,PE,UFV,2021-09,11
+Residencial,GO,UFV,2021-09,1280
+Industrial,PR,UFV,2021-09,37
+Comercial,GO,UFV,2021-09,152
+Residencial,PR,UFV,2021-09,445
+Industrial,GO,UFV,2021-09,7
+Comercial,RO,UFV,2021-09,17
+Comercial,MG,UFV,2021-09,412
+Residencial,PB,UFV,2021-09,5
+Rural,GO,UFV,2021-09,141
+Rural,PR,UFV,2021-09,187
+Rural,SP,UFV,2021-09,2
+Poder Público,MG,UFV,2021-09,4
+Residencial,RO,UFV,2021-09,316
+Poder Público,PE,UFV,2021-09,1
+Comercial,PB,UFV,2021-09,2
+Comercial,BA,UFV,2021-09,322
+Comercial,PR,UFV,2021-09,107
+Residencial,SP,UFV,2021-09,6
+Residencial,MS,UFV,2021-09,10
+Industrial,BA,UFV,2021-09,19
+Residencial,PE,UFV,2021-09,1109
+Comercial,PE,UFV,2021-09,144
+Residencial,RR,UFV,2021-09,18
+Comercial,RR,UFV,2021-09,5
+Poder Público,RO,UFV,2021-09,3
+Poder Público,PR,UFV,2021-09,1
+Rural,RO,UFV,2021-09,14
+Poder Público,BA,UFV,2021-09,1
+Residencial,MG,UFV,2021-09,2914
+Poder Público,GO,UFV,2021-09,3
+Rural,BA,UFV,2021-09,122
+Industrial,RO,UFV,2021-09,3
+Rural,MG,UTE,2021-09,5
+Rural,PE,UFV,2021-09,73
+Residencial,BA,UFV,2021-09,1596
+Industrial,SP,UFV,2021-09,1
+Rural,MG,UFV,2021-09,642
+Industrial,MG,UFV,2021-09,48
+Poder Público,RO,UFV,2021-10,9
+Rural,RO,UFV,2021-10,38
+Residencial,RO,UFV,2021-10,298
+Comercial,RO,UFV,2021-10,22
+Residencial,GO,UFV,2021-10,458
+Poder Público,RR,UFV,2021-10,1
+Rural,BA,UFV,2021-10,126
+Comercial,PE,UFV,2021-10,168
+Industrial,SP,UFV,2021-10,1
+Rural,SP,UFV,2021-10,1
+Iluminação pública,MG,UFV,2021-10,1
+Poder Público,GO,UFV,2021-10,1
+Residencial,PB,UFV,2021-10,5
+Comercial,GO,UFV,2021-10,81
+Industrial,BA,UFV,2021-10,24
+Residencial,SP,UFV,2021-10,10
+Comercial,PB,UFV,2021-10,3
+Residencial,BA,UFV,2021-10,1868
+Poder Público,MG,UFV,2021-10,2
+Industrial,PR,UFV,2021-10,30
+Industrial,MG,UFV,2021-10,22
+Rural,PE,UFV,2021-10,48
+Rural,MG,UFV,2021-10,368
+Poder Público,PR,UFV,2021-10,2
+Comercial,MS,UFV,2021-10,2
+Comercial,PR,UFV,2021-10,87
+Poder Público,BA,UFV,2021-10,1
+Residencial,RR,UFV,2021-10,16
+Residencial,PE,UFV,2021-10,1196
+Comercial,RR,UFV,2021-10,5
+Residencial,MS,UFV,2021-10,10
+Poder Público,PE,UFV,2021-10,3
+Residencial,RS,UFV,2021-10,1
+Industrial,PE,UFV,2021-10,7
+Residencial,MG,UFV,2021-10,1980
+Rural,MS,UFV,2021-10,4
+Industrial,GO,UFV,2021-10,1
+Comercial,MG,UFV,2021-10,227
+Serviço Público,MG,UFV,2021-10,1
+Comercial,SP,UFV,2021-10,1
+Rural,PB,UFV,2021-10,1
+Rural,GO,UFV,2021-10,61
+Residencial,PR,UFV,2021-10,465
+Comercial,BA,UFV,2021-10,410
+Rural,PR,UFV,2021-10,190
+Industrial,RR,UFV,2021-10,1
+Comercial,SP,UFV,2021-11,2
+Comercial,RO,UFV,2021-11,35
+Rural,RO,UFV,2021-11,49
+Residencial,RR,UFV,2021-11,19
+Residencial,RO,UFV,2021-11,361
+Rural,PR,UFV,2021-11,282
+Comercial,PE,UFV,2021-11,128
+Rural,BA,UFV,2021-11,141
+Comercial,RR,UFV,2021-11,8
+Residencial,SP,UFV,2021-11,13
+Rural,PE,UFV,2021-11,68
+Rural,MS,UFV,2021-11,23
+Comercial,MS,UFV,2021-11,3
+Comercial,GO,UFV,2021-11,1
+Comercial,PR,UFV,2021-11,107
+Rural,GO,UFV,2021-11,3
+Poder Público,RO,UFV,2021-11,10
+Residencial,PE,UFV,2021-11,1270
+Residencial,PB,UFV,2021-11,4
+Rural,RR,UFV,2021-11,3
+Poder Público,PR,UFV,2021-11,2
+Residencial,MS,UFV,2021-11,68
+Industrial,RO,UFV,2021-11,2
+Poder Público,PE,UFV,2021-11,5
+Industrial,PE,UFV,2021-11,22
+Residencial,BA,UFV,2021-11,1952
+Industrial,PR,UFV,2021-11,35
+Industrial,SP,UFV,2021-11,1
+Comercial,BA,UFV,2021-11,372
+Industrial,BA,UFV,2021-11,21
+Residencial,GO,UFV,2021-11,15
+Industrial,MS,UFV,2021-11,2
+Poder Público,BA,UFV,2021-11,2
+Residencial,PR,UFV,2021-11,704
+Comercial,SP,UFV,2021-12,1
+Industrial,MS,UFV,2021-12,19
+Comercial,PR,UFV,2021-12,168
+Residencial,RR,UFV,2021-12,25
+Poder Público,PR,UFV,2021-12,2
+Rural,SP,UFV,2021-12,2
+Poder Público,PE,UFV,2021-12,16
+Residencial,PR,UFV,2021-12,735
+Comercial,RR,UFV,2021-12,7
+Comercial,PE,UFV,2021-12,164
+Comercial,BA,UFV,2021-12,424
+Residencial,BA,UFV,2021-12,2207
+Industrial,PB,UFV,2021-12,1
+Residencial,PB,UFV,2021-12,30
+Residencial,PE,UFV,2021-12,1454
+Comercial,MS,UFV,2021-12,57
+Comercial,PB,UFV,2021-12,3
+Industrial,BA,UFV,2021-12,22
+Poder Público,BA,UFV,2021-12,3
+Comercial,GO,UFV,2021-12,2
+Rural,RO,UFV,2021-12,53
+Rural,BA,UFV,2021-12,111
+Residencial,RO,UFV,2021-12,453
+Residencial,SP,UFV,2021-12,12
+Industrial,PR,UFV,2021-12,62
+Industrial,PE,UFV,2021-12,13
+Poder Público,RO,UFV,2021-12,20
+Residencial,GO,UFV,2021-12,10
+Rural,PE,UFV,2021-12,80
+Comercial,RO,UFV,2021-12,35
+Rural,GO,UFV,2021-12,1
+Rural,MS,UFV,2021-12,50
+Rural,PR,UFV,2021-12,358
+Residencial,MS,UFV,2021-12,540
+Rural,PB,UFV,2021-12,3
+Comercial,RS,UFV,2022-01,8
+Industrial,PR,UTE,2022-01,1
+Residencial,SP,UFV,2022-01,15
+Rural,SP,UFV,2022-01,3
+Comercial,RR,UFV,2022-01,1
+Rural,MS,UFV,2022-01,57
+Poder Público,BA,UFV,2022-01,6
+Residencial,PE,UFV,2022-01,4
+Industrial,PR,UFV,2022-01,61
+Comercial,RO,UFV,2022-01,34
+Rural,BA,UFV,2022-01,128
+Rural,PB,UFV,2022-01,1
+Residencial,GO,UFV,2022-01,10
+Rural,RS,UFV,2022-01,2
+Residencial,RR,UFV,2022-01,11
+Comercial,PB,UFV,2022-01,20
+Residencial,RS,UFV,2022-01,47
+Rural,PR,UFV,2022-01,225
+Residencial,PB,UFV,2022-01,93
+Comercial,BA,UFV,2022-01,381
+Comercial,GO,UFV,2022-01,2
+Industrial,MS,UFV,2022-01,12
+Comercial,PR,UFV,2022-01,167
+Industrial,BA,UFV,2022-01,24
+Rural,GO,UFV,2022-01,1
+Comercial,MS,UFV,2022-01,67
+Poder Público,RO,UFV,2022-01,22
+Residencial,PR,UFV,2022-01,1038
+Residencial,RO,UFV,2022-01,358
+Comercial,SP,UFV,2022-01,1
+Residencial,MS,UFV,2022-01,627
+Rural,RO,UFV,2022-01,45
+Poder Público,PR,UFV,2022-01,1
+Residencial,BA,UFV,2022-01,2110
+Rural,RS,UFV,2022-02,13
+Residencial,GO,UFV,2022-02,8
+Residencial,PB,UFV,2022-02,167
+Comercial,PB,UFV,2022-02,41
+Residencial,RO,UFV,2022-02,367
+Residencial,MS,UFV,2022-02,591
+Industrial,RO,UFV,2022-02,1
+Comercial,MS,UFV,2022-02,68
+Rural,BA,UFV,2022-02,151
+Residencial,RS,UFV,2022-02,53
+Comercial,RO,UFV,2022-02,35
+Poder Público,SP,UFV,2022-02,1
+Industrial,PR,UFV,2022-02,87
+Poder Público,RO,UFV,2022-02,29
+Rural,RO,UFV,2022-02,65
+Poder Público,MS,UFV,2022-02,1
+Poder Público,PB,UFV,2022-02,3
+Industrial,BA,UFV,2022-02,37
+Residencial,SP,UFV,2022-02,49
+Rural,PB,UFV,2022-02,13
+Industrial,SP,UFV,2022-02,2
+Rural,PR,UFV,2022-02,315
+Comercial,BA,UFV,2022-02,475
+Residencial,BA,UFV,2022-02,2243
+Comercial,SP,UFV,2022-02,2
+Poder Público,PR,UFV,2022-02,4
+Residencial,PR,UFV,2022-02,1738
+Comercial,PR,UFV,2022-02,233
+Residencial,ES,UFV,2022-02,1
+Industrial,MS,UFV,2022-02,10
+Rural,MS,UFV,2022-02,55
+Comercial,RS,UFV,2022-02,6
+Rural,SP,UFV,2022-02,13
+Poder Público,BA,UFV,2022-02,3
+Industrial,PB,UFV,2022-02,5
+Comercial,RO,UFV,2022-03,35
+Comercial,PR,UFV,2022-03,339
+Industrial,MS,UFV,2022-03,13
+Rural,BA,UFV,2022-03,40
+Industrial,PR,UFV,2022-03,89
+Poder Público,MS,UFV,2022-03,1
+Industrial,SP,UFV,2022-03,2
+Rural,SP,UFV,2022-03,15
+Rural,RO,UFV,2022-03,76
+Industrial,GO,UFV,2022-03,1
+Comercial,RS,UFV,2022-03,13
+Residencial,SP,UFV,2022-03,28
+Poder Público,PB,UFV,2022-03,3
+Industrial,RS,UFV,2022-03,1
+Residencial,PR,UFV,2022-03,2781
+Rural,PB,UFV,2022-03,33
+Residencial,RS,UFV,2022-03,100
+Residencial,PB,UFV,2022-03,511
+Residencial,GO,UFV,2022-03,18
+Residencial,RO,UFV,2022-03,399
+Comercial,BA,UFV,2022-03,105
+Industrial,PB,UFV,2022-03,12
+Comercial,PB,UFV,2022-03,105
+Comercial,GO,UFV,2022-03,5
+Poder Público,PR,UFV,2022-03,1
+Residencial,MS,UFV,2022-03,624
+Comercial,MS,UFV,2022-03,70
+Rural,PR,UFV,2022-03,470
+Rural,GO,UFV,2022-03,5
+Residencial,BA,UFV,2022-03,512
+Rural,MS,UFV,2022-03,56
+Rural,RS,UFV,2022-03,8
+Industrial,RO,UFV,2022-03,2
+Comercial,SP,UFV,2022-03,3
+Serviço Público,MS,UFV,2022-03,2
+Industrial,BA,UFV,2022-03,7
+Residencial,PB,UFV,2022-04,543
+Rural,BA,UFV,2022-04,25
+Poder Público,BA,UFV,2022-04,1
+Industrial,SP,UFV,2022-04,1
+Comercial,PR,UFV,2022-04,338
+Comercial,GO,UFV,2022-04,1
+Residencial,MS,UFV,2022-04,2170
+Rural,RO,CGH,2022-04,1
+Rural,SP,UFV,2022-04,8
+Industrial,RO,UFV,2022-04,1
+Poder Público,MS,UFV,2022-04,2
+Residencial,GO,UFV,2022-04,5
+Comercial,BA,UFV,2022-04,113
+Rural,PB,UFV,2022-04,30
+Industrial,MS,UFV,2022-04,38
+Comercial,MS,UFV,2022-04,203
+Residencial,PR,UFV,2022-04,2573
+Residencial,BA,UFV,2022-04,550
+Rural,RS,UFV,2022-04,23
+Comercial,RO,UFV,2022-04,36
+Residencial,RO,UFV,2022-04,363
+Poder Público,PR,UFV,2022-04,3
+Rural,MS,UFV,2022-04,207
+Residencial,SP,UFV,2022-04,45
+Industrial,PB,UFV,2022-04,4
+Comercial,RS,UFV,2022-04,10
+Industrial,BA,UFV,2022-04,9
+Comercial,SP,UFV,2022-04,3
+Industrial,PR,UFV,2022-04,106
+Rural,RO,UFV,2022-04,88
+Residencial,RS,UFV,2022-04,106
+Rural,PR,UFV,2022-04,471
+Comercial,PB,UFV,2022-04,111
+Comercial,GO,UFV,2022-05,1
+Rural,MS,UFV,2022-05,234
+Residencial,GO,UFV,2022-05,15
+Industrial,PB,UFV,2022-05,12
+Comercial,BA,UFV,2022-05,214
+Industrial,MS,UFV,2022-05,46
+Residencial,BA,UFV,2022-05,1263
+Comercial,MS,UFV,2022-05,222
+Comercial,RS,UFV,2022-05,15
+Residencial,MS,UFV,2022-05,2482
+Industrial,GO,UFV,2022-05,1
+Comercial,PR,UFV,2022-05,374
+Residencial,PR,UFV,2022-05,2757
+Residencial,RO,UFV,2022-05,381
+Rural,RO,UTE,2022-05,1
+Poder Público,PR,UFV,2022-05,5
+Industrial,BA,UFV,2022-05,14
+Comercial,SP,UFV,2022-05,2
+Rural,RO,UFV,2022-05,153
+Poder Público,BA,UFV,2022-05,1
+Residencial,RS,UFV,2022-05,101
+Rural,GO,UFV,2022-05,1
+Comercial,PB,UFV,2022-05,89
+Rural,PR,UFV,2022-05,471
+Rural,RS,UFV,2022-05,17
+Rural,SP,UFV,2022-05,10
+Poder Público,PB,UFV,2022-05,2
+Residencial,SP,UFV,2022-05,69
+Residencial,PB,UFV,2022-05,566
+Rural,BA,UFV,2022-05,84
+Rural,PB,UFV,2022-05,36
+Industrial,PR,UFV,2022-05,132
+Comercial,RO,UFV,2022-05,47
+Residencial,PR,UFV,2022-06,1164
+Residencial,RO,UFV,2022-06,390
+Rural,RS,UFV,2022-06,588
+Poder Público,PR,UFV,2022-06,3
+Poder Público,SP,UFV,2022-06,1
+Poder Público,PB,UFV,2022-06,4
+Industrial,RO,UFV,2022-06,5
+Rural,SP,UFV,2022-06,14
+Residencial,SP,UFV,2022-06,83
+Comercial,SP,UFV,2022-06,9
+Poder Público,RS,UFV,2022-06,6
+Poder Público,RO,UFV,2022-06,1
+Industrial,RS,UFV,2022-06,55
+Rural,GO,UFV,2022-06,3
+Rural,MS,UFV,2022-06,223
+Rural,RO,UFV,2022-06,145
+Residencial,RS,UFV,2022-06,3833
+Poder Público,MS,UFV,2022-06,3
+Comercial,PR,UFV,2022-06,179
+Comercial,GO,UFV,2022-06,5
+Comercial,BA,UFV,2022-06,2
+Comercial,PB,UFV,2022-06,91
+Industrial,PB,UFV,2022-06,14
+Residencial,BA,UFV,2022-06,27
+Rural,PB,UFV,2022-06,30
+Industrial,MS,UFV,2022-06,28
+Rural,BA,UFV,2022-06,2
+Comercial,RO,UFV,2022-06,58
+Industrial,SP,UFV,2022-06,2
+Residencial,GO,UFV,2022-06,7
+Rural,PR,UFV,2022-06,326
+Residencial,PB,UFV,2022-06,460
+Comercial,RS,UFV,2022-06,261
+Comercial,MS,UFV,2022-06,174
+Industrial,PR,UFV,2022-06,74
+Residencial,MS,UFV,2022-06,1954
+Poder Público,PR,UFV,2022-07,1
+Poder Público,MS,UFV,2022-07,6
+Rural,PR,UFV,2022-07,289
+Rural,GO,UFV,2022-07,2
+Comercial,PB,UFV,2022-07,144
+Rural,MS,UFV,2022-07,309
+Rural,PB,UFV,2022-07,44
+Poder Público,RO,UFV,2022-07,2
+Comercial,MS,UFV,2022-07,279
+Poder Público,PB,UFV,2022-07,4
+Residencial,GO,UFV,2022-07,28
+Poder Público,SP,UFV,2022-07,4
+Comercial,MG,UFV,2022-07,1
+Rural,SP,UFV,2022-07,41
+Industrial,SP,UFV,2022-07,7
+Residencial,MS,UFV,2022-07,2076
+Industrial,RS,UFV,2022-07,3
+Comercial,RO,UFV,2022-07,57
+Rural,RO,UFV,2022-07,81
+Industrial,PR,UFV,2022-07,44
+Industrial,PB,UTE,2022-07,1
+Industrial,MS,UFV,2022-07,40
+Residencial,PB,UFV,2022-07,571
+Comercial,SP,UFV,2022-07,42
+Comercial,GO,UFV,2022-07,4
+Comercial,PR,UFV,2022-07,175
+Industrial,RO,UFV,2022-07,3
+Residencial,SP,UFV,2022-07,226
+Residencial,RO,UFV,2022-07,298
+Comercial,RS,UFV,2022-07,23
+Residencial,PR,UFV,2022-07,805
+Residencial,RS,UFV,2022-07,324
+Rural,RS,UFV,2022-07,38
+Industrial,PB,UFV,2022-07,11
+Residencial,RN,UFV,2022-07,1
+Poder Público,PB,UFV,2022-08,4
+Comercial,BA,UFV,2022-08,10
+Rural,RS,UFV,2022-08,58
+Industrial,PR,UFV,2022-08,50
+Rural,BA,UFV,2022-08,4
+Industrial,GO,UFV,2022-08,1
+Residencial,RR,UFV,2022-08,1
+Comercial,PB,UFV,2022-08,107
+Rural,RO,UFV,2022-08,119
+Comercial,MS,UFV,2022-08,227
+Rural,PR,UFV,2022-08,261
+Poder Público,PR,UFV,2022-08,1
+Residencial,RN,UFV,2022-08,1
+Rural,MS,UFV,2022-08,279
+Comercial,RS,UFV,2022-08,23
+Residencial,SP,UFV,2022-08,959
+Residencial,RO,UFV,2022-08,340
+Residencial,PB,UFV,2022-08,488
+Comercial,RO,UFV,2022-08,78
+Comercial,PR,UFV,2022-08,166
+Rural,GO,UFV,2022-08,4
+Residencial,RS,UFV,2022-08,181
+Poder Público,RO,UFV,2022-08,2
+Rural,SP,UFV,2022-08,96
+Comercial,SP,UFV,2022-08,124
+Poder Público,RS,UFV,2022-08,1
+Industrial,PB,UFV,2022-08,12
+Industrial,RO,UFV,2022-08,4
+Residencial,GO,UFV,2022-08,39
+Residencial,BA,UFV,2022-08,31
+Industrial,SP,UFV,2022-08,16
+Residencial,PR,UFV,2022-08,838
+Industrial,MS,UFV,2022-08,19
+Poder Público,SP,UFV,2022-08,6
+Comercial,GO,UFV,2022-08,3
+Industrial,RS,UFV,2022-08,1
+Rural,PB,UFV,2022-08,36
+Residencial,MS,UFV,2022-08,1988
+Comercial,RN,UFV,2022-08,1
+Industrial,BA,UFV,2022-08,2
+Comercial,RS,CGH,2022-09,1
+Residencial,RS,UFV,2022-09,2702
+Industrial,RN,UFV,2022-09,1
+Comercial,RS,UFV,2022-09,211
+Rural,SP,UFV,2022-09,174
+Residencial,SP,UFV,2022-09,1489
+Industrial,PB,UFV,2022-09,8
+Residencial,BA,UFV,2022-09,31
+Industrial,PR,UFV,2022-09,53
+Rural,PB,UFV,2022-09,31
+Rural,MS,UFV,2022-09,231
+Comercial,MS,UFV,2022-09,203
+Industrial,MS,UFV,2022-09,22
+Comercial,RO,UFV,2022-09,41
+Rural,RN,UFV,2022-09,11
+Residencial,PR,UFV,2022-09,761
+Poder Público,SP,UFV,2022-09,2
+Residencial,MS,UFV,2022-09,1513
+Poder Público,PB,UFV,2022-09,5
+Comercial,GO,UFV,2022-09,2
+Industrial,BA,UFV,2022-09,2
+Comercial,RN,UFV,2022-09,48
+Rural,BA,UFV,2022-09,2
+Serviço Público,RS,UFV,2022-09,1
+Comercial,PR,UFV,2022-09,155
+Industrial,RO,UFV,2022-09,7
+Poder Público,RS,UFV,2022-09,7
+Industrial,RS,UFV,2022-09,57
+Comercial,SP,UFV,2022-09,205
+Rural,GO,UFV,2022-09,2
+Industrial,SP,UFV,2022-09,33
+Residencial,PB,UFV,2022-09,422
+Residencial,GO,UFV,2022-09,15
+Comercial,PB,UFV,2022-09,110
+Rural,RS,UFV,2022-09,657
+Comercial,BA,UFV,2022-09,12
+Poder Público,MS,UFV,2022-09,2
+Poder Público,PR,UFV,2022-09,1
+Rural,RO,UFV,2022-09,92
+Rural,PR,UFV,2022-09,249
+Serviço Público,MS,UFV,2022-09,1
+Residencial,RO,UFV,2022-09,345
+Residencial,RN,UFV,2022-09,161
+Serviço Público,SP,UFV,2022-10,1
+Poder Público,PR,UFV,2022-10,6
+Industrial,MS,UFV,2022-10,35
+Residencial,PR,UFV,2022-10,1774
+Comercial,SP,UFV,2022-10,429
+Iluminação pública,RN,UFV,2022-10,3
+Comercial,RS,UFV,2022-10,446
+Rural,SP,UTE,2022-10,2
+Residencial,RO,UFV,2022-10,370
+Residencial,BA,UFV,2022-10,31
+Serviço Público,PR,UFV,2022-10,1
+Poder Público,RN,UFV,2022-10,3
+Residencial,RN,UFV,2022-10,1150
+Rural,RO,UFV,2022-10,158
+Comercial,MS,UFV,2022-10,199
+Poder Público,SP,UFV,2022-10,6
+Poder Público,RS,UFV,2022-10,21
+Rural,SP,UFV,2022-10,310
+Comercial,RO,UFV,2022-10,43
+Industrial,SP,UFV,2022-10,94
+Rural,RS,UTE,2022-10,1
+Residencial,PB,UFV,2022-10,386
+Rural,BA,UFV,2022-10,4
+Residencial,MS,UFV,2022-10,1700
+Rural,RN,UFV,2022-10,45
+Rural,PR,UFV,2022-10,571
+Comercial,RN,UFV,2022-10,181
+Comercial,PB,UFV,2022-10,134
+Comercial,PR,UFV,2022-10,314
+Rural,RS,UFV,2022-10,1379
+Poder Público,PB,UFV,2022-10,2
+Industrial,RN,UFV,2022-10,9
+Industrial,RO,UFV,2022-10,5
+Residencial,SP,UFV,2022-10,4477
+Rural,MS,UFV,2022-10,271
+Poder Público,MS,UFV,2022-10,6
+Industrial,PR,UFV,2022-10,128
+Industrial,RS,UFV,2022-10,98
+Residencial,RS,UFV,2022-10,6153
+Comercial,BA,UFV,2022-10,5
+Rural,PB,UFV,2022-10,42
+Industrial,PB,UFV,2022-10,16
+Comercial,GO,UFV,2022-10,1
+Industrial,RS,UFV,2022-11,86
+Residencial,PB,UFV,2022-11,438
+Iluminação pública,RN,UFV,2022-11,2
+Poder Público,SP,UFV,2022-11,14
+Rural,GO,UFV,2022-11,1
+Residencial,MS,UFV,2022-11,2036
+Comercial,SP,UFV,2022-11,893
+Residencial,GO,UFV,2022-11,14
+Comercial,GO,UFV,2022-11,4
+Industrial,RS,UTE,2022-11,1
+Comercial,PR,UFV,2022-11,159
+Poder Público,RO,UFV,2022-11,3
+Poder Público,RN,UFV,2022-11,2
+Industrial,RO,UFV,2022-11,3
+Industrial,SP,UFV,2022-11,137
+Poder Público,PR,UFV,2022-11,2
+Poder Público,RS,UFV,2022-11,20
+Comercial,RN,UFV,2022-11,190
+Rural,SP,UFV,2022-11,567
+Residencial,RN,UFV,2022-11,1194
+Poder Público,MS,UFV,2022-11,3
+Residencial,RS,UFV,2022-11,6424
+Residencial,BA,UFV,2022-11,1
+Industrial,PB,UFV,2022-11,15
+Rural,PB,UFV,2022-11,27
+Comercial,MS,UFV,2022-11,227
+Comercial,RO,UFV,2022-11,65
+Industrial,PR,UFV,2022-11,49
+Rural,MS,UFV,2022-11,274
+Residencial,SP,UFV,2022-11,9592
+Comercial,RS,UFV,2022-11,420
+Poder Público,PB,UFV,2022-11,2
+Industrial,RN,UFV,2022-11,7
+Residencial,PR,UFV,2022-11,760
+Rural,RS,UTE,2022-11,1
+Rural,RO,UFV,2022-11,121
+Residencial,PB,UTE,2022-11,1
+Rural,RS,UFV,2022-11,1508
+Rural,RN,UFV,2022-11,40
+Industrial,MS,UFV,2022-11,34
+Residencial,RO,UFV,2022-11,388
+Comercial,PB,UFV,2022-11,108
+Serviço Público,SP,UFV,2022-11,1
+Rural,PR,UFV,2022-11,285
+Comercial,GO,UFV,2022-12,12
+Comercial,BA,UFV,2022-12,1
+Rural,RO,UFV,2022-12,160
+Rural,RN,UFV,2022-12,65
+Rural,SP,UFV,2022-12,460
+Rural,RS,UFV,2022-12,839
+Serviço Público,SP,UFV,2022-12,2
+Industrial,SP,UFV,2022-12,111
+Industrial,RO,UFV,2022-12,5
+Comercial,RS,UFV,2022-12,199
+Poder Público,PB,UFV,2022-12,9
+Residencial,RS,UFV,2022-12,4796
+Industrial,PR,UFV,2022-12,1
+Poder Público,MS,UFV,2022-12,5
+Industrial,PB,UFV,2022-12,14
+Residencial,GO,UFV,2022-12,24
+Comercial,RO,UFV,2022-12,79
+Residencial,SP,UFV,2022-12,9819
+Rural,GO,UFV,2022-12,2
+Comercial,RN,UFV,2022-12,291
+Residencial,PB,UFV,2022-12,627
+Industrial,RS,UFV,2022-12,36
+Industrial,RN,UFV,2022-12,9
+Residencial,RO,UFV,2022-12,573
+Residencial,MS,UFV,2022-12,2439
+Rural,MS,UFV,2022-12,339
+Poder Público,RS,UFV,2022-12,7
+Comercial,PB,UFV,2022-12,131
+Iluminação pública,RN,UFV,2022-12,1
+Industrial,GO,UFV,2022-12,1
+Poder Público,RN,UFV,2022-12,3
+Poder Público,SP,UFV,2022-12,11
+Comercial,MS,UFV,2022-12,228
+Rural,PB,UFV,2022-12,67
+Poder Público,RO,UFV,2022-12,13
+Residencial,BA,UFV,2022-12,6
+Comercial,SP,UFV,2022-12,795
+Industrial,MS,UFV,2022-12,50
+Residencial,RN,UFV,2022-12,1834
+Residencial,SP,UFV,2023-01,543
+Rural,BA,UFV,2023-01,5
+Residencial,PB,UFV,2023-01,692
+Residencial,MS,UFV,2023-01,2995
+Industrial,RN,UFV,2023-01,6
+Iluminação pública,RN,UFV,2023-01,3
+Comercial,RO,UFV,2023-01,83
+Industrial,PB,UFV,2023-01,18
+Comercial,SP,UFV,2023-01,68
+Industrial,MS,UFV,2023-01,55
+Residencial,RO,UFV,2023-01,531
+Residencial,RN,UFV,2023-01,2259
+Comercial,BA,UFV,2023-01,14
+Rural,RO,UFV,2023-01,139
+Poder Público,PB,UFV,2023-01,6
+Rural,SP,UFV,2023-01,50
+Rural,MS,UFV,2023-01,405
+Industrial,RO,UFV,2023-01,4
+Poder Público,SP,UFV,2023-01,1
+Rural,RN,UFV,2023-01,59
+Rural,PB,UFV,2023-01,42
+Poder Público,MS,UFV,2023-01,18
+Residencial,GO,UFV,2023-01,17
+Comercial,PB,UFV,2023-01,152
+Poder Público,RN,UFV,2023-01,2
+Rural,GO,UFV,2023-01,1
+Comercial,RN,UFV,2023-01,297
+Industrial,SP,UFV,2023-01,6
+Poder Público,RO,UFV,2023-01,5
+Comercial,MS,UFV,2023-01,296
+Comercial,GO,UFV,2023-01,3
+Residencial,BA,UFV,2023-01,57
+Poder Público,RN,UFV,2023-02,3
+Poder Público,RO,UFV,2023-02,12
+Comercial,GO,UFV,2023-02,3
+Residencial,MS,UFV,2023-02,1366
+Industrial,MS,UFV,2023-02,21
+Poder Público,PB,UFV,2023-02,12
+Poder Público,MS,UFV,2023-02,1
+Industrial,PB,UFV,2023-02,69
+Residencial,GO,UFV,2023-02,18
+Industrial,SP,UFV,2023-02,1
+Residencial,PB,UFV,2023-02,468
+Rural,RO,UFV,2023-02,145
+Industrial,RN,UFV,2023-02,3
+Industrial,RO,UFV,2023-02,4
+Residencial,ES,UFV,2023-02,2
+Residencial,RN,UFV,2023-02,1624
+Residencial,RO,UFV,2023-02,385
+Comercial,RN,UFV,2023-02,248
+Comercial,MS,UFV,2023-02,143
+Rural,GO,UFV,2023-02,1
+Rural,PR,UFV,2023-02,1
+Comercial,PB,UFV,2023-02,115
+Rural,MS,UFV,2023-02,180
+Comercial,RO,UFV,2023-02,70
+Iluminação pública,RN,UFV,2023-02,2
+Rural,PB,UFV,2023-02,37
+Comercial,SP,UFV,2023-02,1
+Rural,RN,UFV,2023-02,78
+Residencial,SP,UFV,2023-02,13
+Comercial,GO,UFV,2023-03,3
+Comercial,RO,UFV,2023-03,69
+Comercial,PB,UFV,2023-03,157
+Residencial,PB,UFV,2023-03,492
+Rural,RN,UFV,2023-03,77
+Poder Público,PB,UFV,2023-03,17
+Industrial,RN,UFV,2023-03,12
+Rural,GO,UFV,2023-03,3
+Residencial,GO,UFV,2023-03,6
+Residencial,MS,UFV,2023-03,160
+Rural,ES,UFV,2023-03,202
+Poder Público,ES,UFV,2023-03,12
+Rural,ES,UTE,2023-03,1
+Residencial,SP,UFV,2023-03,33
+Rural,SP,UFV,2023-03,2
+Residencial,ES,UFV,2023-03,577
+Comercial,RN,UFV,2023-03,233
+Poder Público,RO,UFV,2023-03,14
+Industrial,ES,UFV,2023-03,14
+Comercial,SP,UFV,2023-03,4
+Comercial,MS,UFV,2023-03,12
+Residencial,RO,UFV,2023-03,404
+Poder Público,RN,UFV,2023-03,6
+Residencial,RN,UFV,2023-03,1347
+Industrial,MS,UFV,2023-03,4
+Rural,PB,UFV,2023-03,50
+Rural,PE,UFV,2023-03,1
+Rural,MS,UFV,2023-03,21
+Comercial,ES,UFV,2023-03,91
+Industrial,PB,UFV,2023-03,11
+Industrial,RO,UFV,2023-03,8
+Rural,RO,UFV,2023-03,131
+Poder Público,ES,UFV,2023-04,31
+Poder Público,PB,UFV,2023-04,8
+Serviço Público,RN,UFV,2023-04,1
+Residencial,ES,UFV,2023-04,866
+Rural,PB,UFV,2023-04,28
+Comercial,PB,UFV,2023-04,97
+Poder Público,RN,UFV,2023-04,2
+Rural,RN,UFV,2023-04,37
+Residencial,RN,UFV,2023-04,830
+Comercial,RN,UFV,2023-04,160
+Comercial,RO,UFV,2023-04,39
+Rural,RO,UFV,2023-04,81
+Rural,ES,UFV,2023-04,367
+Industrial,PB,UFV,2023-04,17
+Industrial,ES,UFV,2023-04,27
+Residencial,RO,UFV,2023-04,247
+Industrial,RN,UFV,2023-04,7
+Comercial,ES,UFV,2023-04,140
+Residencial,SP,UFV,2023-04,6
+Residencial,PB,UFV,2023-04,390
+Industrial,PB,UFV,2023-05,51
+Comercial,RO,UFV,2023-05,59
+Residencial,RN,UFV,2023-05,957
+Residencial,ES,UFV,2023-05,940
+Rural,PB,UFV,2023-05,41
+Poder Público,RN,UFV,2023-05,4
+Rural,RO,UFV,2023-05,105
+Industrial,ES,UFV,2023-05,36
+Comercial,ES,UFV,2023-05,197
+Residencial,RO,UFV,2023-05,270
+Comercial,RN,UFV,2023-05,168
+Residencial,SP,UFV,2023-05,3
+Poder Público,PB,UFV,2023-05,2
+Industrial,PR,UFV,2023-05,1
+Residencial,PB,UFV,2023-05,394
+Residencial,MG,UFV,2023-05,1
+Rural,ES,UFV,2023-05,370
+Comercial,PB,UFV,2023-05,127
+Poder Público,ES,UFV,2023-05,16
+Rural,PR,UFV,2023-05,1
+Rural,RN,UFV,2023-05,51
+Industrial,RN,UFV,2023-05,8
+Residencial,GO,UFV,2023-05,1
+Industrial,ES,UFV,2023-06,7
+Rural,ES,UFV,2023-06,62
+Rural,PB,UFV,2023-06,7
+Poder Público,PB,UFV,2023-06,4
+Comercial,ES,UFV,2023-06,16
+Comercial,PB,UFV,2023-06,24
+Residencial,RO,UFV,2023-06,87
+Comercial,RO,UFV,2023-06,13
+Residencial,PB,UFV,2023-06,98
+Residencial,ES,UFV,2023-06,106
+Rural,RO,UFV,2023-06,28
+Industrial,PB,UFV,2023-06,2
